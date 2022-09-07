@@ -1,0 +1,167 @@
+<html>
+    <head>
+
+    </head>
+    <style>
+        .tradedetailsdiv {
+            position: absolute;
+            height: 100px;
+            white-space: nowrap;
+        }
+        .userdetailsdiv {
+            position: absolute;
+            right: 100px;
+            white-space: nowrap;
+        }
+        .propitemsdiv {
+            position: absolute;
+            top: 400px;
+            white-space: nowrap;
+        }
+        .desireditemsdiv {
+            position: absolute;
+            top: 400px;
+            right: 100px;
+            white-space: nowrap;
+        }
+        table {
+        text-align: left;
+        }
+        th, td {
+            padding:5px 5px 5px 5px;
+        }
+        hr {
+            width: 45vw;
+            margin-left:0;
+            height:2px;
+            border-width:0;
+            color:gray;
+            background-color:#BBEDF0
+        }
+        .returntomain {
+            padding: 15px 30px;
+            background-color: #4CAF50;
+            border-radius: 10px;
+            outline: none;
+            text-align: center;
+            text-decoration: none;
+            font-weight: bold;
+            color: white;
+            white-space: nowrap;
+            font-size: 16px;
+            position:absolute;
+            right:10px;
+            top:190px;
+        }
+        </style>
+    <body>
+    <a href="/mainmenu" class="returntomain">Return To Main Menu</a>
+        <div class="tradedetailsdiv">
+            <h3>Trade Details</h3>
+            <hr>
+            <table class="tradedetailstable">
+                <tr>
+                    <th>Proposed</th>
+                    <td class="proposed_date">{{ proposed_date }}</th>
+                  
+                </tr>
+                <tr>
+                    <th>Accepted / Rejected</td>
+                    <td class="accept_reject_date">{{ accept_reject_date }}</td>
+                </tr>
+                <tr>
+                    <th>Status</td>
+                    <td class="status">{{ status }}</td>
+                </tr>
+                <tr>
+                    <th>My role</td>
+                    <td class="my_role">{{ my_role }}</td>
+                </tr>
+                <tr>
+                    <th>Response time</td>
+                    <td class="response_time">{{ response_time }} days</td>
+                </tr>
+            </table>
+        </div>
+        <div class="userdetailsdiv">
+
+            {% if is_accepted_trade %}
+            <h3>User Details</h3>
+            <hr>
+            <table class="userdetailstable">
+                <tr>
+                    <th>Nickname</th>
+                    <td class="other_user_nickname">{{ other_user_nickname }}</th>
+                  
+                </tr>
+                <tr>
+                    <th>Distance</td>
+                    <td class="distance_from_me">{{ distance_from_me }} miles</td>
+                </tr>
+                <tr>
+                    <th>Name</td>
+                    <td class="other_user_name">{{ other_user_name }}</td>
+                </tr>
+                <tr>
+                    <th>Email</td>
+                    <td class="other_user_email">{{ other_user_email }}</td>
+                </tr>
+            </table>
+            {% endif %}
+
+        </div>
+        
+        <div class="propitemsdiv">
+            <h3>Proposed Item</h3>
+            <hr>
+            <table class="propitemtable">
+                <tr>
+                    <th>Item #</th>
+                    <td class="proposer_item_no">{{ proposer_item_no }}</th>
+                  
+                </tr>
+                <tr>
+                    <th>Title</td>
+                    <td class="proposed_title">{{ proposed_title }}</td>
+                </tr>
+                <tr>
+                    <th>Game type</td>
+                    <td class="proposed_game_type">{{ proposed_game_type }}</td>
+                </tr>
+                <tr>
+                    <th>Condition</td>
+                    <td class="proposed_condition">{{ proposed_condition }}</td>
+                </tr>
+                <tr>
+                    <th>Description</td>
+                    <td class="proposed_description">{{ proposed_description }}</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="desireditemsdiv">
+            <h3>Desired Item</h3>
+            <hr>
+            <table class="desireditemtable">
+                <tr>
+                    <th>Item #</th>
+                    <td class="counterparty_item_no">{{ counterparty_item_no }}</th>
+                  
+                </tr>
+                <tr>
+                    <th>Title</td>
+                    <td class="desired_title" >{{ desired_title }}</td>
+                </tr>
+                <tr>
+                    <th>Game type</td>
+                    <td class="desired_game_type">{{ desired_game_type }}</td>
+                </tr>
+                <tr>
+                    <th>Condition</td>
+                    <td class="desired_condition">{{ desired_condition }}</td>
+                </tr>
+            </table>
+        </div>
+    </body>
+    
+</html>

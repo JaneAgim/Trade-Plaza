@@ -1,0 +1,119 @@
+<!-- Store this code in 'proposetrade.html' file inside the 'templates' folder -->
+<style>
+        .distance {
+            display: inline-block;
+            padding: 20px 450px;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 2px;
+            outline: none;
+        }
+
+        .confirm {
+            padding: 15px 30px;
+            background-color: #4CAF50;
+            border-radius: 10px;
+            outline: none;
+            text-align: center;
+            text-decoration: none;
+            font-weight: bold;
+            color: white;
+        }
+        table, th, td {
+          border:1px solid black;
+          text-align: center;
+        }
+        .returntomain {
+            padding: 15px 30px;
+            background-color: #4CAF50;
+            border-radius: 10px;
+            outline: none;
+            text-align: center;
+            text-decoration: none;
+            font-weight: bold;
+            color: white;
+            white-space: nowrap;
+            font-size: 16px;
+            position:absolute;
+            right:10px;
+            top:50px;
+        }
+        .noitems {
+            color:#d13030;
+            font-size:21px;
+        }
+
+</style>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> Propose a Trade </title>
+    <link rel="stylesheet" href="static/style.css">
+</head>
+
+
+<body>
+</br></br>
+<div align="center">
+    <div align="center" class="border">
+        <div class="header">
+            <a href="/mainmenu" class="returntomain">Return To Main Menu</a>
+            <h1 class="word">Propose A Trade</h1>
+            {% if background_color == "red" %}
+            <h2 class="distance" style="background-color: {{ background_color }};">The other user is {{ distance }} miles away!</h2>
+            {% endif %}
+        </div></br></br></br>
+    </div>
+    <h3 class="word">You are proposing a trade for: </h3>
+    <h2 class="title">{{ title }}</h2>
+    <br>
+
+    <h3 class="word">Please choose your proposed item: </h3>
+    {% if data %}
+    <form">
+    <table>
+        <tr>
+            <th>Item</th>
+            <th>Game Type</th>
+            <th>Title</th>
+            <th>Condition</th>
+            <th></th>
+        </tr>
+        {% for row in data %}
+        <tr>
+            {% for cell in row %}
+            <td>{{ cell }}</td>
+            {% endfor %}
+
+            {% for cell in row %}
+                {% if loop.index == 1 %}
+                    <td class="proposer_item_no">
+                            <input type="radio" id="select" name="item" value="{{ incomplete_auto_trade_id }}{{ cell }}">
+                            <label for="select">Select</label><br>
+                    </td>
+                {%endif%}
+            {% endfor %}
+        </tr>
+        {% endfor %}
+
+    </table>
+    <br>
+    <button onclick="return selected()" type="submit" class="confirm">Confirm</button>
+    <br>
+    </form>
+    {% else %}
+    <br>
+        <p class="noitems">You have no more items to trade with. <br><br> Please return to the main menu and list another item before retrying. </p>
+    {% endif %}
+</div>
+</body>
+</html>
+
+<script>
+function selected(){
+    var auto_trade_id = document.querySelector('input[name="item"]:checked').value;
+    //alert("Item number " + auto_trade_id +
+    //" has been offered in exchange for this item.");
+    location.href='/proposeconfirmation/'+auto_trade_id;
+}
+</script>

@@ -1,0 +1,160 @@
+<html>
+
+    <head>
+        <meta charset="UTF-8">
+        <title> List Item </title>
+        <link rel="stylesheet" href="static/style.css">   
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script type="text/javascript">
+
+        jQuery(document).ready(function(){ 
+            $("#game_type").change(function(eventObj) {
+                if ($(this).val() === 'collectable_card_game'){
+                    $('#no_cards_label').show();
+                    $('#no_cards').show();
+                    $('#platform_label').hide();
+                    $('#platform_cg').hide();
+                    $('#platform_vg').hide()
+                    $('#media_label').hide();
+                    $('#media').hide();
+
+                }
+                if ($(this).val() === 'computer_game'){
+                    $('#platform_label').show();
+                    $('#platform_cg').show();
+                    $('#platform_vg').hide()
+                    $('#media_label').hide();
+                    $('#media').hide();
+                    $('#no_cards_label').hide();
+                    $('#no_cards').hide();
+                }
+                if ($(this).val() === 'video_game'){
+                    $('#media_label').show();
+                    $('#media').show();
+                    $('#platform_label').show();
+                    $('#platform_vg').show();
+                    $('#platform_cg').hide();
+                    $('#no_cards_label').hide();
+                    $('#no_cards').hide();
+                }
+
+                if ($(this).val() === 'board_game'){
+                    $('#media_label').hide();
+                    $('#media').hide();
+                    $('#platform_label').hide();
+                    $('#platform_vg').hide();
+                    $('#platform_cg').hide();
+                    $('#no_cards_label').hide();
+                    $('#no_cards').hide();
+                }
+
+            if ($(this).val() === 'playing_card_game'){
+                    $('#media_label').hide();
+                    $('#media').hide();
+                    $('#platform_label').hide();
+                    $('#platform_vg').hide();
+                    $('#platform_cg').hide();
+                    $('#no_cards_label').hide();
+                    $('#no_cards').hide();
+                }
+        });
+        });
+    </script>
+</head>
+
+<style>
+    .returntomain {
+    padding: 15px 30px;
+    background-color: #4CAF50;
+    border-radius: 10px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    white-space: nowrap;
+    font-size: 16px;
+    position:absolute;
+    right:10px;
+    top:85px;
+    }
+</style>
+
+
+    <body></br>
+        <div align="center">
+          <div align="center" class="border">
+             <div class="header">
+                 <a href="/mainmenu" class="returntomain">Return To Main Menu</a>
+                <h1 class="word">New Item Listing</h1><br>
+             </div></br>
+            <h2 class="word">
+                <form id="form-list-item" action="/api/listitem" method="post">
+                  <div class="msg">{{ msg }}</div>
+
+                    <text style="font-size:55%;color:gray">Game Type</text><br>
+                    <select id="game_type" name="game_type">
+                          <option value="board_game">Board Game</option>
+                          <option value="playing_card_game">Playing Card Game</option>
+                          <option value="collectable_card_game">Collectable Card Game</option>
+                          <option value="video_game">Video Game</option>
+                          <option value="computer_game">Computer Game</option>
+                        </select> <br><br>
+                    <text style="font-size:55%;color:gray">Title</text><br>
+                    <input id="game_title" name="game_title" type="text" placeholder="Title" class="textbox"/></br></br>
+                    <text style="font-size:55%;color:gray">Condition</text><br>
+                    <select id="condition" name="condition">
+                          <option value="Unopened">Unopened</option>
+                          <option value="Like New">Like New</option>
+                          <option value="Lightly Used">Lightly Used</option>
+                          <option value="Moderately Used">Moderately Used</option>
+                          <option value="Heavily Used">Heavily Used</option>
+                          <option value="Damaged/Missing Parts">Damaged/Missing Parts</option>
+                        </select> <br><br>
+                    <text style="font-size:55%;color:gray">Description</text><br>
+                    <textarea id="description" name="description" rows="4" cols="50" placeholder="Game Description"></textarea><br><br>
+                    <text id="no_cards_label" style="font-size:55%;color:gray;display:none">Number of Cards</text><br>
+                    <input id="no_cards" name="no_cards" type="text" style="display:none" placeholder="5" class="textbox"/></br></br>
+                    <text id="media_label" style="font-size:55%;color:gray;display:none">Media</text><br>
+                    <select id="media" name="media" style="display:none" >
+                          <option value="optical_disc">Optical Disc</option>
+                          <option value="game_card">Game Card</option>
+                          <option value="cartridge">Cartridge</option>
+                        </select> <br><br>
+                    <text id="platform_label" style="font-size:55%;color:gray;display:none">Platform</text><br>
+                    <select id="platform_vg" name="platform_vg" style="display:none" >
+                          {% for p in platform_vg_list %}
+                            <OPTION value={{p[0]}}>{{p[1]}}</OPTION>
+                        {% endfor %}
+                        </select>
+                    <select id="platform_cg" name="platform_cg" style="display:none" >
+                          <option value="linux">Linux</option>
+                          <option value="macos">macOS</option>
+                          <option value="windows">Windows</option>
+                        </select> <br><br>
+
+
+
+                    <input type="submit" class="btn" value="List Item" style="padding:15px 30px;background-color:#4CAF50;border-radius:10px;color:white;"></br>
+                </form>
+            </h2>
+      
+          </div>
+        </div>
+    </body>
+</html>
+
+<script> 
+document.querySelector('#form-list-item').addEventListener("listitem", async function (e) {
+    e.preventDefault()
+    console.log(new URLSearchParams(new FormData(e.target)).toString())
+    const res = await fetch("/api/listitem", {
+        body: new URLSearchParams(new FormData(e.target)).toString(),
+        method: "POST",
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded',
+        }
+    })
+    console.log(await res.json())
+});  
+</script>

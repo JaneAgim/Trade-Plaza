@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Search Results for {{ search_type }} search </title>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/
+jquery.min.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function(){
+
+        $.extend($.expr[":"], {
+        "containsIN": function(elem, i, match) {
+        return (elem.textContent || elem.innerText || "").toLowerCase().includes((match[3]));
+        }
+        });
+        
+
+        $('tr td:nth-child(2):containsIN("'+'{{ keyword }}'+'")').css("background-color",'LightBlue');
+        $('tr td:nth-child(6):containsIN("'+'{{ keyword }}'+'")').css("background-color",'LightBlue');
+         
+
+        })
+    </script>
+
+
+</head>
+
+
+<body>
+<style>
+.returntomain {
+    padding: 15px 30px;
+    background-color: #4CAF50;
+    border-radius: 10px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    white-space: nowrap;
+    font-size: 16px;
+    position:absolute;
+    right:10px;
+    top:20px;
+    }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        td {
+            border: 1px solid #000000;
+            text-align: left;
+            padding: 8px;
+        }
+        th {
+            border: 1px solid #000000;
+            text-align: left;
+            padding: 8px;
+        }
+        td .cut {
+                limitChars:101;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+
+            },
+    </style>
+<a href="/mainmenu" class="returntomain">Return To Main Menu</a>
+<h1>{{ msg }} </h1>
+
+<div id="data-table">
+
+    <!-- Method 1: Rendering table with DataFrame -->
+    <!-- {% for table in tables %}
+        {{ table|safe }}
+    {% endfor %} -->
+
+
+    <!-- Method 2: Rendering table with Python LIST data structure. By doing this, we can insert a button that links to the details of the object -->
+    <form class="form-inline" method="POST" action="itemdetails/{{ item_no }}"></form>
+    <div class="form-group">
+        <div class="input-group">
+            <table>
+                <tr>
+                    <th>Item Number</th>
+                    <th>Title</th>
+                    <th>Game type</th>
+                    <th>Condition</th>
+                    <th>Listing URL</th>
+                    <th>Description</th>
+                    <th>Response Time (Days)</th>
+                    <th>Rank</th>
+                    <th>Distance</th>
+                </tr>
+                {% for item in search_results_list %}
+                <tr>
+                    <!-- <td bgcolor="#008000">{{ item[0] }}</td> -->
+                    <td>{{ item[0] }}</td>
+                    <td>{{ item[1] }}</td>
+                    <td>{{ item[2] }}</td>
+                    <td>{{ item[3] }}</td>
+
+                    <!-- Method 1: Button -->
+                    <!-- <td><button type="submit" name="item_no" value="{{ item[0] }}">Details</button></td> -->
+
+                    <!-- Method 2: Hyper Link -->
+                    <td class="item_no">
+                        <a href="/itemdetails/{{ item[0] }}" class="item_no" tabindex="-1" role="button"
+                           aria-disabled="true">Detail</a>
+                    </td>
+
+                    <td>{{ item[4] }}</td>
+                    <td>{{ item[5] }}</td>
+                    <td>{{ item[6] }}</td>
+                    <td>{{ item[7] }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </div>
+    </form>
+
+</div>
+</body>
+</html>
