@@ -1,7 +1,3 @@
-# cs6400-2022-02-Team29
+# Trade Plaza
 
-Elaine Bentivegna
-Michael Lukacsko
-Jane Agim
-Chin-Po Tsai
-Nathan Gardner
+A web-based application that allows local users to trade game items. This application was written in Python 3, and utilized mySQL and the Flask framework.
