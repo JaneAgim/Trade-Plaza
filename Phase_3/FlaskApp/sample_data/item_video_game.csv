@@ -1,0 +1,2241 @@
+item_number,email,platform,media
+1,usr001@gt.edu,Nintendo,Optical disc
+7,usr002@gt.edu,Xbox,Optical disc
+9,usr002@gt.edu,PlayStation,Optical disc
+11,usr003@gt.edu,Xbox,Optical disc
+14,usr003@gt.edu,Xbox,Optical disc
+19,usr005@gt.edu,Nintendo,Optical disc
+20,usr005@gt.edu,Xbox,Optical disc
+21,usr005@gt.edu,Nintendo,Game card
+22,usr005@gt.edu,Xbox,Optical disc
+28,usr006@gt.edu,PlayStation,Cartridge
+32,usr006@gt.edu,Xbox,Optical disc
+33,usr006@gt.edu,Xbox,Optical disc
+34,usr006@gt.edu,PlayStation,Game card
+36,usr006@gt.edu,PlayStation,Optical disc
+38,usr007@gt.edu,Xbox,Game card
+42,usr007@gt.edu,Xbox,Optical disc
+45,usr007@gt.edu,PlayStation,Game card
+49,usr008@gt.edu,Xbox,Cartridge
+50,usr008@gt.edu,Xbox,Optical disc
+51,usr008@gt.edu,Nintendo,Game card
+52,usr008@gt.edu,PlayStation,Optical disc
+55,usr008@gt.edu,PlayStation,Optical disc
+57,usr008@gt.edu,Xbox,Optical disc
+61,usr009@gt.edu,Nintendo,Game card
+63,usr009@gt.edu,Xbox,Optical disc
+65,usr009@gt.edu,Xbox,Cartridge
+66,usr009@gt.edu,Xbox,Game card
+67,usr009@gt.edu,PlayStation,Game card
+68,usr009@gt.edu,Xbox,Cartridge
+69,usr010@gt.edu,Nintendo,Cartridge
+74,usr010@gt.edu,PlayStation,Game card
+75,usr010@gt.edu,PlayStation,Optical disc
+77,usr011@gt.edu,Xbox,Game card
+80,usr011@gt.edu,PlayStation,Cartridge
+81,usr011@gt.edu,Nintendo,Optical disc
+86,usr011@gt.edu,Nintendo,Optical disc
+88,usr012@gt.edu,PlayStation,Cartridge
+90,usr013@gt.edu,Xbox,Optical disc
+93,usr013@gt.edu,Nintendo,Game card
+98,usr014@gt.edu,PlayStation,Cartridge
+100,usr014@gt.edu,Nintendo,Cartridge
+106,usr015@gt.edu,Xbox,Optical disc
+108,usr015@gt.edu,Xbox,Game card
+109,usr015@gt.edu,Nintendo,Cartridge
+114,usr016@gt.edu,Xbox,Game card
+115,usr016@gt.edu,PlayStation,Cartridge
+116,usr016@gt.edu,Nintendo,Game card
+118,usr016@gt.edu,Xbox,Game card
+120,usr017@gt.edu,PlayStation,Game card
+122,usr017@gt.edu,Nintendo,Cartridge
+124,usr017@gt.edu,Xbox,Optical disc
+127,usr018@gt.edu,Nintendo,Game card
+131,usr018@gt.edu,PlayStation,Cartridge
+132,usr018@gt.edu,Xbox,Cartridge
+134,usr018@gt.edu,Xbox,Cartridge
+141,usr020@gt.edu,Xbox,Cartridge
+142,usr021@gt.edu,Xbox,Game card
+146,usr021@gt.edu,Nintendo,Game card
+148,usr021@gt.edu,PlayStation,Cartridge
+152,usr022@gt.edu,PlayStation,Optical disc
+160,usr024@gt.edu,PlayStation,Game card
+161,usr024@gt.edu,Xbox,Cartridge
+162,usr024@gt.edu,Xbox,Optical disc
+168,usr024@gt.edu,Xbox,Optical disc
+169,usr025@gt.edu,Xbox,Cartridge
+170,usr025@gt.edu,PlayStation,Optical disc
+171,usr025@gt.edu,Nintendo,Cartridge
+176,usr026@gt.edu,PlayStation,Cartridge
+178,usr026@gt.edu,Nintendo,Cartridge
+182,usr027@gt.edu,Nintendo,Game card
+184,usr027@gt.edu,PlayStation,Optical disc
+193,usr029@gt.edu,Nintendo,Optical disc
+196,usr029@gt.edu,Nintendo,Optical disc
+197,usr029@gt.edu,Nintendo,Cartridge
+199,usr030@gt.edu,PlayStation,Cartridge
+204,usr030@gt.edu,Xbox,Cartridge
+207,usr031@gt.edu,Xbox,Cartridge
+208,usr031@gt.edu,PlayStation,Cartridge
+209,usr031@gt.edu,Nintendo,Cartridge
+211,usr031@gt.edu,Nintendo,Optical disc
+212,usr031@gt.edu,Nintendo,Cartridge
+213,usr031@gt.edu,Nintendo,Game card
+214,usr031@gt.edu,PlayStation,Cartridge
+217,usr031@gt.edu,PlayStation,Optical disc
+223,usr033@gt.edu,Xbox,Game card
+226,usr034@gt.edu,PlayStation,Cartridge
+235,usr035@gt.edu,Xbox,Cartridge
+237,usr035@gt.edu,Nintendo,Optical disc
+239,usr035@gt.edu,PlayStation,Optical disc
+248,usr036@gt.edu,PlayStation,Game card
+258,usr038@gt.edu,Nintendo,Optical disc
+260,usr038@gt.edu,PlayStation,Game card
+261,usr038@gt.edu,Xbox,Cartridge
+265,usr039@gt.edu,Xbox,Optical disc
+270,usr039@gt.edu,Xbox,Optical disc
+271,usr039@gt.edu,PlayStation,Cartridge
+276,usr040@gt.edu,Xbox,Game card
+288,usr042@gt.edu,PlayStation,Cartridge
+289,usr042@gt.edu,PlayStation,Optical disc
+290,usr042@gt.edu,Xbox,Game card
+294,usr043@gt.edu,PlayStation,Game card
+296,usr043@gt.edu,Nintendo,Cartridge
+297,usr043@gt.edu,Nintendo,Game card
+305,usr044@gt.edu,Nintendo,Game card
+306,usr044@gt.edu,Xbox,Cartridge
+311,usr045@gt.edu,Nintendo,Game card
+312,usr045@gt.edu,Xbox,Game card
+313,usr045@gt.edu,Xbox,Game card
+326,usr047@gt.edu,Xbox,Optical disc
+327,usr047@gt.edu,Nintendo,Game card
+328,usr047@gt.edu,PlayStation,Game card
+329,usr047@gt.edu,Nintendo,Game card
+330,usr047@gt.edu,PlayStation,Game card
+331,usr047@gt.edu,PlayStation,Optical disc
+332,usr048@gt.edu,PlayStation,Game card
+336,usr048@gt.edu,Xbox,Game card
+338,usr048@gt.edu,PlayStation,Optical disc
+340,usr048@gt.edu,PlayStation,Optical disc
+342,usr049@gt.edu,Xbox,Game card
+345,usr049@gt.edu,Xbox,Cartridge
+346,usr049@gt.edu,Xbox,Game card
+356,usr050@gt.edu,Xbox,Game card
+357,usr050@gt.edu,Nintendo,Game card
+361,usr051@gt.edu,Xbox,Game card
+362,usr051@gt.edu,Nintendo,Game card
+366,usr051@gt.edu,Xbox,Cartridge
+369,usr052@gt.edu,Nintendo,Cartridge
+370,usr052@gt.edu,PlayStation,Game card
+374,usr052@gt.edu,PlayStation,Cartridge
+377,usr052@gt.edu,Nintendo,Cartridge
+382,usr053@gt.edu,Xbox,Optical disc
+388,usr054@gt.edu,Xbox,Game card
+390,usr054@gt.edu,PlayStation,Cartridge
+392,usr054@gt.edu,Nintendo,Cartridge
+393,usr054@gt.edu,Nintendo,Cartridge
+394,usr054@gt.edu,Nintendo,Game card
+395,usr054@gt.edu,Xbox,Game card
+397,usr055@gt.edu,Xbox,Game card
+400,usr055@gt.edu,Nintendo,Optical disc
+402,usr055@gt.edu,Nintendo,Optical disc
+403,usr055@gt.edu,Xbox,Game card
+404,usr055@gt.edu,Xbox,Cartridge
+408,usr056@gt.edu,Nintendo,Cartridge
+419,usr057@gt.edu,Xbox,Optical disc
+421,usr057@gt.edu,Xbox,Game card
+423,usr057@gt.edu,PlayStation,Game card
+428,usr059@gt.edu,PlayStation,Optical disc
+430,usr059@gt.edu,Nintendo,Game card
+432,usr059@gt.edu,Xbox,Cartridge
+433,usr059@gt.edu,PlayStation,Game card
+436,usr059@gt.edu,Xbox,Game card
+438,usr059@gt.edu,PlayStation,Cartridge
+439,usr060@gt.edu,Nintendo,Optical disc
+442,usr060@gt.edu,PlayStation,Optical disc
+444,usr060@gt.edu,PlayStation,Optical disc
+449,usr060@gt.edu,PlayStation,Game card
+458,usr063@gt.edu,PlayStation,Optical disc
+459,usr063@gt.edu,Xbox,Game card
+462,usr063@gt.edu,Xbox,Optical disc
+464,usr063@gt.edu,Xbox,Optical disc
+466,usr063@gt.edu,Xbox,Optical disc
+467,usr063@gt.edu,Nintendo,Optical disc
+479,usr065@gt.edu,Xbox,Game card
+484,usr066@gt.edu,Xbox,Optical disc
+487,usr066@gt.edu,Nintendo,Optical disc
+494,usr067@gt.edu,Nintendo,Cartridge
+501,usr068@gt.edu,Xbox,Game card
+510,usr069@gt.edu,Nintendo,Optical disc
+513,usr069@gt.edu,Xbox,Cartridge
+518,usr070@gt.edu,Nintendo,Optical disc
+520,usr071@gt.edu,Xbox,Cartridge
+522,usr071@gt.edu,Xbox,Optical disc
+523,usr071@gt.edu,PlayStation,Game card
+528,usr073@gt.edu,Nintendo,Game card
+531,usr073@gt.edu,Xbox,Cartridge
+542,usr075@gt.edu,PlayStation,Optical disc
+544,usr076@gt.edu,Xbox,Optical disc
+545,usr076@gt.edu,Nintendo,Optical disc
+550,usr076@gt.edu,Nintendo,Optical disc
+551,usr077@gt.edu,Nintendo,Cartridge
+558,usr078@gt.edu,Nintendo,Optical disc
+563,usr078@gt.edu,PlayStation,Game card
+565,usr079@gt.edu,Xbox,Optical disc
+572,usr079@gt.edu,Xbox,Optical disc
+577,usr080@gt.edu,Xbox,Game card
+583,usr081@gt.edu,Xbox,Cartridge
+584,usr081@gt.edu,PlayStation,Optical disc
+586,usr081@gt.edu,PlayStation,Game card
+592,usr081@gt.edu,PlayStation,Optical disc
+597,usr082@gt.edu,Nintendo,Optical disc
+598,usr082@gt.edu,Nintendo,Game card
+602,usr083@gt.edu,PlayStation,Cartridge
+603,usr083@gt.edu,Xbox,Optical disc
+604,usr083@gt.edu,Nintendo,Game card
+605,usr083@gt.edu,PlayStation,Cartridge
+607,usr083@gt.edu,Xbox,Optical disc
+608,usr083@gt.edu,Xbox,Cartridge
+611,usr083@gt.edu,Xbox,Game card
+614,usr084@gt.edu,Nintendo,Optical disc
+615,usr084@gt.edu,Xbox,Cartridge
+622,usr084@gt.edu,Nintendo,Game card
+625,usr085@gt.edu,PlayStation,Optical disc
+631,usr086@gt.edu,Nintendo,Optical disc
+632,usr086@gt.edu,Xbox,Game card
+635,usr086@gt.edu,Xbox,Game card
+639,usr086@gt.edu,Nintendo,Game card
+640,usr086@gt.edu,Xbox,Game card
+641,usr086@gt.edu,Nintendo,Cartridge
+648,usr087@gt.edu,Xbox,Optical disc
+649,usr087@gt.edu,Nintendo,Cartridge
+650,usr088@gt.edu,PlayStation,Game card
+651,usr088@gt.edu,PlayStation,Game card
+654,usr088@gt.edu,PlayStation,Cartridge
+658,usr088@gt.edu,Xbox,Optical disc
+660,usr088@gt.edu,Xbox,Optical disc
+663,usr089@gt.edu,Nintendo,Cartridge
+666,usr089@gt.edu,Xbox,Cartridge
+668,usr089@gt.edu,Nintendo,Optical disc
+675,usr090@gt.edu,Xbox,Game card
+678,usr090@gt.edu,Xbox,Optical disc
+682,usr091@gt.edu,Nintendo,Game card
+685,usr091@gt.edu,PlayStation,Optical disc
+689,usr092@gt.edu,Nintendo,Cartridge
+690,usr092@gt.edu,Xbox,Cartridge
+691,usr092@gt.edu,Nintendo,Cartridge
+692,usr092@gt.edu,Xbox,Game card
+700,usr093@gt.edu,Nintendo,Optical disc
+704,usr093@gt.edu,PlayStation,Cartridge
+706,usr093@gt.edu,Nintendo,Optical disc
+708,usr094@gt.edu,Xbox,Cartridge
+709,usr094@gt.edu,Xbox,Game card
+710,usr094@gt.edu,PlayStation,Cartridge
+711,usr094@gt.edu,Xbox,Cartridge
+712,usr094@gt.edu,Xbox,Optical disc
+714,usr094@gt.edu,Nintendo,Optical disc
+716,usr094@gt.edu,Xbox,Optical disc
+718,usr094@gt.edu,Nintendo,Game card
+723,usr095@gt.edu,Xbox,Cartridge
+725,usr095@gt.edu,Xbox,Game card
+729,usr096@gt.edu,Xbox,Game card
+731,usr096@gt.edu,Xbox,Optical disc
+740,usr097@gt.edu,Xbox,Optical disc
+750,usr098@gt.edu,PlayStation,Game card
+751,usr098@gt.edu,Nintendo,Optical disc
+752,usr098@gt.edu,Nintendo,Game card
+753,usr098@gt.edu,Xbox,Game card
+757,usr098@gt.edu,Nintendo,Game card
+759,usr099@gt.edu,Nintendo,Cartridge
+760,usr099@gt.edu,PlayStation,Cartridge
+763,usr100@gt.edu,Xbox,Optical disc
+769,usr101@gt.edu,PlayStation,Cartridge
+780,usr103@gt.edu,Xbox,Optical disc
+788,usr104@gt.edu,PlayStation,Optical disc
+789,usr104@gt.edu,Xbox,Game card
+791,usr104@gt.edu,Xbox,Optical disc
+794,usr104@gt.edu,Xbox,Game card
+795,usr104@gt.edu,Nintendo,Cartridge
+797,usr105@gt.edu,PlayStation,Optical disc
+801,usr106@gt.edu,Nintendo,Optical disc
+804,usr107@gt.edu,Xbox,Game card
+815,usr108@gt.edu,PlayStation,Cartridge
+818,usr108@gt.edu,PlayStation,Optical disc
+834,usr110@gt.edu,Nintendo,Game card
+837,usr111@gt.edu,Nintendo,Cartridge
+838,usr111@gt.edu,PlayStation,Cartridge
+839,usr111@gt.edu,Nintendo,Cartridge
+841,usr111@gt.edu,Xbox,Cartridge
+845,usr112@gt.edu,Xbox,Cartridge
+847,usr112@gt.edu,Xbox,Game card
+849,usr113@gt.edu,Xbox,Cartridge
+853,usr113@gt.edu,Nintendo,Game card
+857,usr114@gt.edu,PlayStation,Cartridge
+858,usr114@gt.edu,Xbox,Game card
+861,usr114@gt.edu,Nintendo,Optical disc
+868,usr115@gt.edu,PlayStation,Optical disc
+871,usr115@gt.edu,Nintendo,Game card
+873,usr115@gt.edu,Xbox,Game card
+874,usr116@gt.edu,Nintendo,Cartridge
+875,usr116@gt.edu,Nintendo,Game card
+885,usr117@gt.edu,Nintendo,Cartridge
+888,usr117@gt.edu,PlayStation,Cartridge
+890,usr118@gt.edu,PlayStation,Optical disc
+891,usr118@gt.edu,PlayStation,Cartridge
+892,usr118@gt.edu,Xbox,Game card
+896,usr118@gt.edu,PlayStation,Optical disc
+897,usr118@gt.edu,Xbox,Optical disc
+898,usr118@gt.edu,Xbox,Cartridge
+899,usr119@gt.edu,PlayStation,Game card
+906,usr120@gt.edu,Nintendo,Game card
+908,usr120@gt.edu,Nintendo,Optical disc
+910,usr120@gt.edu,Xbox,Optical disc
+911,usr121@gt.edu,Xbox,Optical disc
+926,usr124@gt.edu,PlayStation,Optical disc
+928,usr124@gt.edu,PlayStation,Optical disc
+931,usr124@gt.edu,Nintendo,Game card
+933,usr125@gt.edu,Xbox,Game card
+940,usr126@gt.edu,PlayStation,Cartridge
+941,usr126@gt.edu,Nintendo,Game card
+943,usr126@gt.edu,Nintendo,Game card
+946,usr127@gt.edu,Xbox,Cartridge
+951,usr128@gt.edu,PlayStation,Cartridge
+956,usr128@gt.edu,Xbox,Cartridge
+957,usr128@gt.edu,PlayStation,Cartridge
+964,usr129@gt.edu,PlayStation,Cartridge
+966,usr129@gt.edu,Nintendo,Optical disc
+969,usr130@gt.edu,Xbox,Game card
+970,usr130@gt.edu,Xbox,Game card
+976,usr131@gt.edu,Nintendo,Game card
+978,usr132@gt.edu,Nintendo,Optical disc
+985,usr133@gt.edu,PlayStation,Optical disc
+986,usr133@gt.edu,PlayStation,Cartridge
+987,usr133@gt.edu,Nintendo,Game card
+989,usr133@gt.edu,PlayStation,Cartridge
+993,usr134@gt.edu,Xbox,Cartridge
+998,usr135@gt.edu,Xbox,Optical disc
+999,usr135@gt.edu,Xbox,Cartridge
+1010,usr137@gt.edu,PlayStation,Optical disc
+1011,usr137@gt.edu,PlayStation,Cartridge
+1016,usr138@gt.edu,Xbox,Optical disc
+1019,usr138@gt.edu,Nintendo,Game card
+1029,usr139@gt.edu,PlayStation,Optical disc
+1032,usr139@gt.edu,PlayStation,Game card
+1033,usr139@gt.edu,Nintendo,Cartridge
+1040,usr141@gt.edu,PlayStation,Optical disc
+1047,usr142@gt.edu,Xbox,Cartridge
+1051,usr142@gt.edu,PlayStation,Optical disc
+1059,usr143@gt.edu,Xbox,Game card
+1060,usr144@gt.edu,Nintendo,Optical disc
+1064,usr145@gt.edu,PlayStation,Cartridge
+1068,usr145@gt.edu,Nintendo,Game card
+1072,usr145@gt.edu,PlayStation,Cartridge
+1077,usr146@gt.edu,Nintendo,Cartridge
+1080,usr146@gt.edu,Nintendo,Cartridge
+1082,usr146@gt.edu,Nintendo,Optical disc
+1086,usr146@gt.edu,Nintendo,Game card
+1090,usr147@gt.edu,Nintendo,Game card
+1092,usr147@gt.edu,Nintendo,Optical disc
+1094,usr147@gt.edu,Xbox,Game card
+1095,usr147@gt.edu,Xbox,Optical disc
+1097,usr148@gt.edu,Xbox,Game card
+1098,usr148@gt.edu,Xbox,Optical disc
+1100,usr148@gt.edu,Xbox,Optical disc
+1102,usr148@gt.edu,Nintendo,Game card
+1116,usr150@gt.edu,Xbox,Game card
+1119,usr151@gt.edu,Xbox,Cartridge
+1125,usr152@gt.edu,Xbox,Game card
+1128,usr152@gt.edu,Nintendo,Game card
+1132,usr152@gt.edu,Xbox,Cartridge
+1133,usr153@gt.edu,PlayStation,Optical disc
+1134,usr153@gt.edu,Nintendo,Game card
+1135,usr153@gt.edu,Xbox,Optical disc
+1137,usr153@gt.edu,Nintendo,Game card
+1141,usr154@gt.edu,Xbox,Game card
+1147,usr155@gt.edu,Nintendo,Game card
+1148,usr156@gt.edu,Xbox,Optical disc
+1151,usr156@gt.edu,Nintendo,Cartridge
+1158,usr157@gt.edu,PlayStation,Game card
+1160,usr157@gt.edu,PlayStation,Cartridge
+1162,usr157@gt.edu,Xbox,Optical disc
+1166,usr158@gt.edu,Nintendo,Cartridge
+1167,usr158@gt.edu,Xbox,Game card
+1169,usr158@gt.edu,Xbox,Game card
+1170,usr158@gt.edu,Nintendo,Optical disc
+1184,usr159@gt.edu,Xbox,Cartridge
+1185,usr160@gt.edu,Nintendo,Game card
+1191,usr160@gt.edu,Xbox,Cartridge
+1195,usr161@gt.edu,Nintendo,Cartridge
+1196,usr161@gt.edu,Xbox,Optical disc
+1198,usr161@gt.edu,PlayStation,Optical disc
+1199,usr161@gt.edu,Nintendo,Optical disc
+1200,usr161@gt.edu,Xbox,Optical disc
+1203,usr161@gt.edu,PlayStation,Cartridge
+1205,usr162@gt.edu,Nintendo,Cartridge
+1206,usr162@gt.edu,Nintendo,Optical disc
+1207,usr162@gt.edu,Nintendo,Cartridge
+1217,usr164@gt.edu,PlayStation,Game card
+1225,usr165@gt.edu,Xbox,Game card
+1227,usr165@gt.edu,PlayStation,Game card
+1236,usr166@gt.edu,Nintendo,Cartridge
+1238,usr166@gt.edu,Xbox,Cartridge
+1244,usr167@gt.edu,PlayStation,Cartridge
+1252,usr169@gt.edu,PlayStation,Cartridge
+1262,usr171@gt.edu,Xbox,Game card
+1264,usr171@gt.edu,Xbox,Cartridge
+1269,usr172@gt.edu,Nintendo,Optical disc
+1270,usr172@gt.edu,Xbox,Cartridge
+1276,usr173@gt.edu,PlayStation,Cartridge
+1278,usr173@gt.edu,Nintendo,Optical disc
+1281,usr173@gt.edu,PlayStation,Cartridge
+1290,usr175@gt.edu,Nintendo,Game card
+1296,usr176@gt.edu,Xbox,Cartridge
+1298,usr176@gt.edu,Xbox,Cartridge
+1302,usr177@gt.edu,PlayStation,Optical disc
+1308,usr178@gt.edu,PlayStation,Game card
+1309,usr178@gt.edu,PlayStation,Cartridge
+1312,usr178@gt.edu,Nintendo,Game card
+1314,usr178@gt.edu,PlayStation,Cartridge
+1315,usr178@gt.edu,PlayStation,Cartridge
+1318,usr179@gt.edu,Xbox,Optical disc
+1319,usr179@gt.edu,Xbox,Optical disc
+1322,usr179@gt.edu,Xbox,Optical disc
+1324,usr179@gt.edu,Nintendo,Cartridge
+1326,usr180@gt.edu,Nintendo,Optical disc
+1327,usr180@gt.edu,PlayStation,Optical disc
+1329,usr181@gt.edu,Nintendo,Optical disc
+1330,usr181@gt.edu,Nintendo,Game card
+1332,usr181@gt.edu,Nintendo,Game card
+1333,usr181@gt.edu,Nintendo,Game card
+1336,usr181@gt.edu,Xbox,Optical disc
+1343,usr182@gt.edu,Nintendo,Game card
+1344,usr182@gt.edu,Nintendo,Optical disc
+1345,usr182@gt.edu,PlayStation,Cartridge
+1348,usr182@gt.edu,Xbox,Game card
+1353,usr183@gt.edu,PlayStation,Cartridge
+1356,usr184@gt.edu,Nintendo,Optical disc
+1359,usr184@gt.edu,Xbox,Cartridge
+1366,usr185@gt.edu,PlayStation,Cartridge
+1367,usr185@gt.edu,Xbox,Optical disc
+1372,usr185@gt.edu,Nintendo,Cartridge
+1375,usr185@gt.edu,PlayStation,Cartridge
+1376,usr185@gt.edu,Nintendo,Optical disc
+1377,usr186@gt.edu,Xbox,Optical disc
+1380,usr186@gt.edu,Nintendo,Game card
+1389,usr187@gt.edu,Xbox,Optical disc
+1391,usr188@gt.edu,Nintendo,Cartridge
+1395,usr188@gt.edu,Nintendo,Game card
+1396,usr188@gt.edu,PlayStation,Optical disc
+1398,usr188@gt.edu,PlayStation,Cartridge
+1399,usr188@gt.edu,Nintendo,Optical disc
+1404,usr189@gt.edu,Xbox,Optical disc
+1406,usr189@gt.edu,Nintendo,Optical disc
+1417,usr191@gt.edu,Nintendo,Cartridge
+1424,usr192@gt.edu,Xbox,Optical disc
+1426,usr192@gt.edu,PlayStation,Game card
+1431,usr193@gt.edu,Nintendo,Game card
+1443,usr194@gt.edu,Nintendo,Game card
+1444,usr194@gt.edu,Xbox,Game card
+1447,usr194@gt.edu,PlayStation,Cartridge
+1448,usr194@gt.edu,Xbox,Game card
+1450,usr195@gt.edu,Xbox,Cartridge
+1457,usr196@gt.edu,Nintendo,Cartridge
+1458,usr196@gt.edu,Nintendo,Game card
+1459,usr196@gt.edu,Xbox,Cartridge
+1461,usr196@gt.edu,Xbox,Game card
+1467,usr197@gt.edu,Xbox,Optical disc
+1468,usr197@gt.edu,Xbox,Game card
+1470,usr197@gt.edu,Xbox,Optical disc
+1472,usr197@gt.edu,PlayStation,Optical disc
+1475,usr198@gt.edu,Nintendo,Game card
+1480,usr198@gt.edu,Xbox,Optical disc
+1481,usr199@gt.edu,Xbox,Game card
+1482,usr199@gt.edu,PlayStation,Optical disc
+1485,usr199@gt.edu,Xbox,Optical disc
+1489,usr200@gt.edu,PlayStation,Optical disc
+1492,usr200@gt.edu,Nintendo,Game card
+1498,usr201@gt.edu,Xbox,Optical disc
+1499,usr201@gt.edu,Nintendo,Cartridge
+1501,usr201@gt.edu,Xbox,Cartridge
+1505,usr202@gt.edu,PlayStation,Optical disc
+1511,usr203@gt.edu,Nintendo,Cartridge
+1512,usr203@gt.edu,Nintendo,Game card
+1516,usr203@gt.edu,Nintendo,Game card
+1518,usr203@gt.edu,PlayStation,Game card
+1521,usr204@gt.edu,Xbox,Optical disc
+1523,usr204@gt.edu,Nintendo,Optical disc
+1525,usr204@gt.edu,Xbox,Game card
+1526,usr204@gt.edu,PlayStation,Cartridge
+1531,usr205@gt.edu,Nintendo,Game card
+1532,usr205@gt.edu,Nintendo,Game card
+1535,usr205@gt.edu,Xbox,Cartridge
+1536,usr205@gt.edu,Nintendo,Optical disc
+1537,usr205@gt.edu,Xbox,Game card
+1538,usr205@gt.edu,Xbox,Cartridge
+1548,usr206@gt.edu,Nintendo,Game card
+1550,usr206@gt.edu,PlayStation,Game card
+1551,usr206@gt.edu,Xbox,Cartridge
+1553,usr207@gt.edu,Nintendo,Game card
+1554,usr207@gt.edu,PlayStation,Cartridge
+1557,usr207@gt.edu,Xbox,Cartridge
+1558,usr207@gt.edu,Xbox,Optical disc
+1572,usr210@gt.edu,PlayStation,Cartridge
+1573,usr210@gt.edu,Nintendo,Game card
+1576,usr210@gt.edu,Nintendo,Cartridge
+1578,usr210@gt.edu,Xbox,Game card
+1585,usr211@gt.edu,Xbox,Cartridge
+1586,usr211@gt.edu,Xbox,Cartridge
+1593,usr212@gt.edu,Xbox,Cartridge
+1597,usr213@gt.edu,Xbox,Game card
+1601,usr213@gt.edu,PlayStation,Game card
+1602,usr213@gt.edu,PlayStation,Cartridge
+1604,usr213@gt.edu,Xbox,Game card
+1606,usr214@gt.edu,Nintendo,Optical disc
+1608,usr214@gt.edu,PlayStation,Optical disc
+1617,usr215@gt.edu,Xbox,Cartridge
+1619,usr215@gt.edu,Xbox,Game card
+1627,usr216@gt.edu,PlayStation,Optical disc
+1630,usr216@gt.edu,PlayStation,Optical disc
+1634,usr217@gt.edu,PlayStation,Optical disc
+1643,usr217@gt.edu,Xbox,Game card
+1644,usr217@gt.edu,Xbox,Cartridge
+1645,usr217@gt.edu,Xbox,Optical disc
+1656,usr219@gt.edu,Nintendo,Game card
+1657,usr219@gt.edu,PlayStation,Cartridge
+1663,usr220@gt.edu,Xbox,Optical disc
+1669,usr220@gt.edu,PlayStation,Cartridge
+1670,usr220@gt.edu,Xbox,Optical disc
+1675,usr221@gt.edu,Nintendo,Cartridge
+1677,usr222@gt.edu,Xbox,Optical disc
+1681,usr222@gt.edu,Xbox,Optical disc
+1683,usr222@gt.edu,PlayStation,Cartridge
+1684,usr222@gt.edu,Xbox,Game card
+1688,usr223@gt.edu,Xbox,Game card
+1689,usr223@gt.edu,Xbox,Cartridge
+1690,usr223@gt.edu,Nintendo,Game card
+1691,usr223@gt.edu,Xbox,Optical disc
+1698,usr225@gt.edu,Nintendo,Game card
+1699,usr225@gt.edu,Xbox,Optical disc
+1701,usr226@gt.edu,Nintendo,Optical disc
+1704,usr226@gt.edu,Nintendo,Cartridge
+1705,usr226@gt.edu,Xbox,Cartridge
+1706,usr227@gt.edu,Xbox,Optical disc
+1710,usr228@gt.edu,Nintendo,Optical disc
+1714,usr228@gt.edu,PlayStation,Cartridge
+1715,usr228@gt.edu,Nintendo,Game card
+1716,usr228@gt.edu,Nintendo,Cartridge
+1718,usr228@gt.edu,Nintendo,Optical disc
+1719,usr228@gt.edu,Xbox,Game card
+1720,usr228@gt.edu,PlayStation,Cartridge
+1722,usr229@gt.edu,PlayStation,Cartridge
+1724,usr229@gt.edu,Xbox,Game card
+1725,usr229@gt.edu,PlayStation,Cartridge
+1727,usr229@gt.edu,PlayStation,Cartridge
+1729,usr230@gt.edu,Xbox,Optical disc
+1731,usr231@gt.edu,PlayStation,Optical disc
+1733,usr231@gt.edu,Nintendo,Cartridge
+1737,usr231@gt.edu,Nintendo,Game card
+1742,usr232@gt.edu,Nintendo,Cartridge
+1745,usr232@gt.edu,Xbox,Game card
+1753,usr234@gt.edu,Nintendo,Optical disc
+1754,usr234@gt.edu,PlayStation,Game card
+1756,usr235@gt.edu,Xbox,Game card
+1758,usr235@gt.edu,Xbox,Cartridge
+1761,usr236@gt.edu,PlayStation,Cartridge
+1763,usr236@gt.edu,Nintendo,Optical disc
+1764,usr236@gt.edu,Nintendo,Cartridge
+1766,usr236@gt.edu,Nintendo,Optical disc
+1767,usr236@gt.edu,Xbox,Optical disc
+1769,usr236@gt.edu,PlayStation,Optical disc
+1770,usr237@gt.edu,Xbox,Game card
+1774,usr237@gt.edu,Xbox,Optical disc
+1777,usr238@gt.edu,Xbox,Optical disc
+1781,usr238@gt.edu,Xbox,Game card
+1785,usr239@gt.edu,Xbox,Optical disc
+1788,usr239@gt.edu,PlayStation,Game card
+1792,usr239@gt.edu,Xbox,Cartridge
+1795,usr240@gt.edu,Nintendo,Cartridge
+1798,usr240@gt.edu,Xbox,Game card
+1801,usr240@gt.edu,Xbox,Game card
+1805,usr240@gt.edu,Nintendo,Game card
+1806,usr241@gt.edu,PlayStation,Cartridge
+1810,usr241@gt.edu,Xbox,Optical disc
+1812,usr241@gt.edu,Nintendo,Cartridge
+1815,usr242@gt.edu,Nintendo,Game card
+1817,usr242@gt.edu,Nintendo,Optical disc
+1818,usr242@gt.edu,Nintendo,Game card
+1820,usr242@gt.edu,Nintendo,Optical disc
+1823,usr242@gt.edu,Nintendo,Game card
+1825,usr243@gt.edu,Xbox,Game card
+1830,usr244@gt.edu,Nintendo,Optical disc
+1831,usr245@gt.edu,Xbox,Cartridge
+1835,usr245@gt.edu,Xbox,Game card
+1836,usr245@gt.edu,Xbox,Optical disc
+1837,usr245@gt.edu,Xbox,Cartridge
+1840,usr246@gt.edu,Nintendo,Cartridge
+1848,usr246@gt.edu,Xbox,Cartridge
+1854,usr247@gt.edu,PlayStation,Optical disc
+1856,usr247@gt.edu,Xbox,Game card
+1858,usr248@gt.edu,Nintendo,Cartridge
+1861,usr248@gt.edu,PlayStation,Game card
+1864,usr248@gt.edu,PlayStation,Cartridge
+1869,usr249@gt.edu,PlayStation,Game card
+1876,usr250@gt.edu,Nintendo,Cartridge
+1877,usr250@gt.edu,Xbox,Game card
+1878,usr251@gt.edu,Xbox,Optical disc
+1884,usr252@gt.edu,Xbox,Cartridge
+1892,usr253@gt.edu,Xbox,Optical disc
+1898,usr254@gt.edu,Xbox,Game card
+1901,usr255@gt.edu,PlayStation,Cartridge
+1902,usr255@gt.edu,Xbox,Cartridge
+1910,usr255@gt.edu,PlayStation,Cartridge
+1911,usr255@gt.edu,Nintendo,Optical disc
+1927,usr258@gt.edu,Nintendo,Game card
+1928,usr258@gt.edu,PlayStation,Cartridge
+1929,usr258@gt.edu,Xbox,Game card
+1930,usr258@gt.edu,Xbox,Game card
+1936,usr259@gt.edu,Xbox,Game card
+1938,usr260@gt.edu,Nintendo,Optical disc
+1940,usr260@gt.edu,PlayStation,Game card
+1941,usr260@gt.edu,Nintendo,Game card
+1944,usr261@gt.edu,Nintendo,Cartridge
+1947,usr261@gt.edu,PlayStation,Cartridge
+1948,usr261@gt.edu,Nintendo,Optical disc
+1950,usr261@gt.edu,Nintendo,Optical disc
+1951,usr261@gt.edu,Xbox,Game card
+1957,usr262@gt.edu,Xbox,Game card
+1959,usr263@gt.edu,Xbox,Game card
+1961,usr263@gt.edu,Xbox,Cartridge
+1965,usr263@gt.edu,PlayStation,Cartridge
+1967,usr264@gt.edu,PlayStation,Optical disc
+1969,usr264@gt.edu,PlayStation,Optical disc
+1971,usr264@gt.edu,Xbox,Cartridge
+1976,usr265@gt.edu,PlayStation,Cartridge
+1977,usr265@gt.edu,Xbox,Game card
+1984,usr265@gt.edu,Xbox,Optical disc
+1989,usr266@gt.edu,Nintendo,Optical disc
+1990,usr266@gt.edu,Nintendo,Game card
+1995,usr267@gt.edu,Xbox,Optical disc
+1997,usr268@gt.edu,PlayStation,Cartridge
+2004,usr269@gt.edu,Nintendo,Game card
+2017,usr271@gt.edu,Xbox,Cartridge
+2026,usr272@gt.edu,Xbox,Optical disc
+2027,usr272@gt.edu,Nintendo,Optical disc
+2029,usr272@gt.edu,Nintendo,Optical disc
+2034,usr272@gt.edu,Xbox,Cartridge
+2036,usr273@gt.edu,Nintendo,Optical disc
+2048,usr274@gt.edu,Nintendo,Optical disc
+2049,usr274@gt.edu,PlayStation,Game card
+2050,usr274@gt.edu,Nintendo,Cartridge
+2051,usr274@gt.edu,Nintendo,Optical disc
+2053,usr274@gt.edu,Nintendo,Game card
+2059,usr275@gt.edu,Nintendo,Game card
+2061,usr275@gt.edu,Xbox,Optical disc
+2063,usr275@gt.edu,Xbox,Game card
+2064,usr275@gt.edu,PlayStation,Optical disc
+2068,usr277@gt.edu,Xbox,Optical disc
+2079,usr278@gt.edu,Xbox,Cartridge
+2082,usr278@gt.edu,Xbox,Game card
+2086,usr279@gt.edu,Nintendo,Game card
+2088,usr280@gt.edu,Xbox,Game card
+2089,usr280@gt.edu,Nintendo,Optical disc
+2090,usr280@gt.edu,Nintendo,Game card
+2091,usr280@gt.edu,PlayStation,Cartridge
+2092,usr280@gt.edu,PlayStation,Cartridge
+2093,usr280@gt.edu,PlayStation,Cartridge
+2101,usr281@gt.edu,Xbox,Optical disc
+2105,usr282@gt.edu,Nintendo,Game card
+2108,usr282@gt.edu,Nintendo,Optical disc
+2109,usr282@gt.edu,Xbox,Cartridge
+2110,usr283@gt.edu,PlayStation,Optical disc
+2117,usr284@gt.edu,Nintendo,Game card
+2119,usr284@gt.edu,Nintendo,Optical disc
+2120,usr284@gt.edu,Nintendo,Game card
+2121,usr284@gt.edu,Nintendo,Game card
+2124,usr284@gt.edu,Nintendo,Optical disc
+2129,usr285@gt.edu,Nintendo,Optical disc
+2134,usr285@gt.edu,Xbox,Game card
+2135,usr285@gt.edu,Nintendo,Game card
+2136,usr285@gt.edu,Xbox,Cartridge
+2138,usr285@gt.edu,Xbox,Optical disc
+2139,usr286@gt.edu,Xbox,Game card
+2141,usr286@gt.edu,Xbox,Game card
+2143,usr287@gt.edu,PlayStation,Cartridge
+2144,usr287@gt.edu,Xbox,Game card
+2145,usr287@gt.edu,Nintendo,Game card
+2148,usr287@gt.edu,Nintendo,Optical disc
+2150,usr288@gt.edu,PlayStation,Cartridge
+2152,usr289@gt.edu,Nintendo,Game card
+2167,usr291@gt.edu,PlayStation,Cartridge
+2169,usr291@gt.edu,Xbox,Game card
+2174,usr292@gt.edu,Nintendo,Optical disc
+2179,usr293@gt.edu,PlayStation,Game card
+2181,usr293@gt.edu,Nintendo,Game card
+2183,usr294@gt.edu,Nintendo,Game card
+2187,usr294@gt.edu,Xbox,Game card
+2188,usr294@gt.edu,Xbox,Optical disc
+2189,usr294@gt.edu,Nintendo,Game card
+2193,usr295@gt.edu,Xbox,Optical disc
+2198,usr296@gt.edu,Xbox,Optical disc
+2200,usr296@gt.edu,PlayStation,Cartridge
+2203,usr297@gt.edu,Xbox,Cartridge
+2204,usr297@gt.edu,Nintendo,Optical disc
+2211,usr297@gt.edu,PlayStation,Optical disc
+2213,usr297@gt.edu,PlayStation,Optical disc
+2214,usr298@gt.edu,Nintendo,Game card
+2215,usr298@gt.edu,Xbox,Game card
+2219,usr299@gt.edu,Nintendo,Game card
+2230,usr300@gt.edu,PlayStation,Optical disc
+2231,usr300@gt.edu,PlayStation,Cartridge
+2234,usr301@gt.edu,PlayStation,Optical disc
+2237,usr301@gt.edu,Xbox,Optical disc
+2238,usr301@gt.edu,Xbox,Optical disc
+2247,usr302@gt.edu,PlayStation,Optical disc
+2250,usr303@gt.edu,Nintendo,Cartridge
+2251,usr303@gt.edu,PlayStation,Optical disc
+2253,usr303@gt.edu,PlayStation,Cartridge
+2258,usr304@gt.edu,Nintendo,Optical disc
+2260,usr305@gt.edu,Nintendo,Game card
+2263,usr306@gt.edu,Xbox,Optical disc
+2265,usr306@gt.edu,Xbox,Cartridge
+2272,usr308@gt.edu,Xbox,Game card
+2281,usr309@gt.edu,Nintendo,Optical disc
+2289,usr309@gt.edu,Xbox,Cartridge
+2292,usr310@gt.edu,PlayStation,Optical disc
+2296,usr311@gt.edu,Xbox,Cartridge
+2300,usr311@gt.edu,PlayStation,Game card
+2308,usr312@gt.edu,Nintendo,Cartridge
+2309,usr312@gt.edu,Xbox,Cartridge
+2313,usr313@gt.edu,Nintendo,Cartridge
+2317,usr314@gt.edu,PlayStation,Game card
+2320,usr314@gt.edu,Nintendo,Optical disc
+2322,usr314@gt.edu,Nintendo,Optical disc
+2324,usr314@gt.edu,PlayStation,Game card
+2326,usr314@gt.edu,Xbox,Game card
+2328,usr315@gt.edu,Nintendo,Optical disc
+2329,usr315@gt.edu,Nintendo,Cartridge
+2330,usr315@gt.edu,Nintendo,Optical disc
+2336,usr315@gt.edu,Xbox,Game card
+2338,usr316@gt.edu,PlayStation,Optical disc
+2339,usr316@gt.edu,Nintendo,Game card
+2341,usr316@gt.edu,Xbox,Cartridge
+2343,usr316@gt.edu,Nintendo,Optical disc
+2350,usr317@gt.edu,Nintendo,Optical disc
+2351,usr317@gt.edu,Xbox,Cartridge
+2354,usr318@gt.edu,Xbox,Game card
+2355,usr318@gt.edu,Xbox,Optical disc
+2364,usr319@gt.edu,Nintendo,Game card
+2365,usr319@gt.edu,PlayStation,Optical disc
+2367,usr319@gt.edu,Xbox,Optical disc
+2368,usr319@gt.edu,Xbox,Optical disc
+2372,usr320@gt.edu,Xbox,Game card
+2380,usr320@gt.edu,PlayStation,Optical disc
+2381,usr320@gt.edu,Xbox,Optical disc
+2382,usr321@gt.edu,PlayStation,Game card
+2383,usr321@gt.edu,Nintendo,Game card
+2384,usr321@gt.edu,Nintendo,Game card
+2385,usr321@gt.edu,Xbox,Cartridge
+2387,usr321@gt.edu,Xbox,Optical disc
+2393,usr322@gt.edu,Xbox,Cartridge
+2402,usr325@gt.edu,Xbox,Game card
+2407,usr325@gt.edu,Nintendo,Cartridge
+2409,usr325@gt.edu,Nintendo,Cartridge
+2416,usr326@gt.edu,Xbox,Game card
+2422,usr327@gt.edu,Xbox,Optical disc
+2426,usr327@gt.edu,Xbox,Cartridge
+2433,usr328@gt.edu,Nintendo,Cartridge
+2434,usr328@gt.edu,Xbox,Optical disc
+2436,usr329@gt.edu,Xbox,Optical disc
+2437,usr329@gt.edu,Nintendo,Cartridge
+2440,usr329@gt.edu,Xbox,Optical disc
+2447,usr331@gt.edu,Xbox,Optical disc
+2449,usr331@gt.edu,Xbox,Optical disc
+2450,usr332@gt.edu,Nintendo,Cartridge
+2454,usr333@gt.edu,Nintendo,Cartridge
+2463,usr334@gt.edu,PlayStation,Game card
+2465,usr335@gt.edu,Xbox,Game card
+2468,usr335@gt.edu,Xbox,Cartridge
+2469,usr335@gt.edu,Nintendo,Game card
+2471,usr335@gt.edu,PlayStation,Cartridge
+2477,usr336@gt.edu,Nintendo,Game card
+2479,usr336@gt.edu,Nintendo,Game card
+2489,usr337@gt.edu,Nintendo,Optical disc
+2492,usr337@gt.edu,Xbox,Game card
+2494,usr337@gt.edu,Xbox,Optical disc
+2505,usr338@gt.edu,Xbox,Optical disc
+2507,usr339@gt.edu,PlayStation,Cartridge
+2510,usr340@gt.edu,Xbox,Cartridge
+2514,usr340@gt.edu,Xbox,Optical disc
+2516,usr340@gt.edu,Xbox,Game card
+2520,usr340@gt.edu,PlayStation,Optical disc
+2521,usr341@gt.edu,PlayStation,Optical disc
+2523,usr341@gt.edu,Xbox,Optical disc
+2526,usr342@gt.edu,Xbox,Game card
+2527,usr342@gt.edu,Xbox,Game card
+2528,usr342@gt.edu,Nintendo,Game card
+2529,usr342@gt.edu,Xbox,Optical disc
+2533,usr343@gt.edu,Nintendo,Cartridge
+2534,usr343@gt.edu,Xbox,Cartridge
+2535,usr343@gt.edu,Nintendo,Optical disc
+2538,usr343@gt.edu,Xbox,Game card
+2539,usr343@gt.edu,Xbox,Optical disc
+2540,usr343@gt.edu,Nintendo,Game card
+2544,usr344@gt.edu,Xbox,Optical disc
+2552,usr344@gt.edu,Xbox,Cartridge
+2553,usr345@gt.edu,Xbox,Optical disc
+2558,usr346@gt.edu,PlayStation,Optical disc
+2559,usr346@gt.edu,Xbox,Cartridge
+2563,usr347@gt.edu,Xbox,Optical disc
+2569,usr348@gt.edu,Xbox,Optical disc
+2570,usr348@gt.edu,Xbox,Cartridge
+2572,usr349@gt.edu,Nintendo,Game card
+2574,usr349@gt.edu,Xbox,Optical disc
+2577,usr349@gt.edu,PlayStation,Optical disc
+2581,usr350@gt.edu,Xbox,Game card
+2582,usr350@gt.edu,Xbox,Game card
+2583,usr350@gt.edu,Xbox,Cartridge
+2586,usr351@gt.edu,Xbox,Cartridge
+2587,usr351@gt.edu,Nintendo,Cartridge
+2588,usr351@gt.edu,Nintendo,Game card
+2590,usr351@gt.edu,PlayStation,Game card
+2591,usr351@gt.edu,PlayStation,Optical disc
+2593,usr352@gt.edu,PlayStation,Game card
+2596,usr352@gt.edu,Nintendo,Optical disc
+2605,usr354@gt.edu,Xbox,Optical disc
+2610,usr354@gt.edu,PlayStation,Cartridge
+2611,usr354@gt.edu,Nintendo,Cartridge
+2613,usr354@gt.edu,Nintendo,Game card
+2614,usr355@gt.edu,PlayStation,Cartridge
+2615,usr355@gt.edu,Xbox,Game card
+2625,usr356@gt.edu,Nintendo,Game card
+2628,usr356@gt.edu,Nintendo,Cartridge
+2630,usr356@gt.edu,Xbox,Optical disc
+2632,usr356@gt.edu,PlayStation,Cartridge
+2638,usr357@gt.edu,Xbox,Game card
+2642,usr358@gt.edu,Xbox,Optical disc
+2645,usr358@gt.edu,PlayStation,Optical disc
+2650,usr359@gt.edu,Xbox,Optical disc
+2655,usr359@gt.edu,Xbox,Game card
+2666,usr360@gt.edu,Xbox,Optical disc
+2675,usr361@gt.edu,Nintendo,Optical disc
+2678,usr362@gt.edu,PlayStation,Cartridge
+2682,usr362@gt.edu,Nintendo,Game card
+2684,usr362@gt.edu,PlayStation,Cartridge
+2688,usr363@gt.edu,Nintendo,Game card
+2689,usr363@gt.edu,Xbox,Optical disc
+2694,usr363@gt.edu,PlayStation,Cartridge
+2695,usr363@gt.edu,Xbox,Game card
+2697,usr363@gt.edu,Nintendo,Cartridge
+2700,usr364@gt.edu,Xbox,Optical disc
+2705,usr364@gt.edu,Nintendo,Cartridge
+2709,usr365@gt.edu,PlayStation,Optical disc
+2714,usr366@gt.edu,Nintendo,Game card
+2717,usr366@gt.edu,PlayStation,Optical disc
+2722,usr367@gt.edu,Xbox,Game card
+2731,usr368@gt.edu,Xbox,Cartridge
+2734,usr369@gt.edu,PlayStation,Optical disc
+2736,usr369@gt.edu,Nintendo,Game card
+2739,usr369@gt.edu,Xbox,Optical disc
+2740,usr369@gt.edu,Xbox,Game card
+2741,usr369@gt.edu,Nintendo,Optical disc
+2745,usr370@gt.edu,Xbox,Cartridge
+2748,usr370@gt.edu,PlayStation,Cartridge
+2749,usr370@gt.edu,PlayStation,Optical disc
+2753,usr370@gt.edu,PlayStation,Optical disc
+2754,usr371@gt.edu,Xbox,Cartridge
+2755,usr371@gt.edu,PlayStation,Optical disc
+2761,usr372@gt.edu,Xbox,Optical disc
+2763,usr372@gt.edu,Xbox,Optical disc
+2766,usr372@gt.edu,Xbox,Game card
+2773,usr373@gt.edu,PlayStation,Cartridge
+2776,usr373@gt.edu,PlayStation,Cartridge
+2781,usr374@gt.edu,Nintendo,Optical disc
+2782,usr374@gt.edu,Nintendo,Cartridge
+2785,usr375@gt.edu,PlayStation,Game card
+2786,usr375@gt.edu,Xbox,Cartridge
+2787,usr375@gt.edu,Xbox,Optical disc
+2788,usr375@gt.edu,PlayStation,Cartridge
+2792,usr376@gt.edu,Nintendo,Cartridge
+2794,usr376@gt.edu,Xbox,Cartridge
+2800,usr377@gt.edu,Nintendo,Optical disc
+2803,usr378@gt.edu,Nintendo,Cartridge
+2804,usr378@gt.edu,PlayStation,Optical disc
+2805,usr378@gt.edu,Nintendo,Cartridge
+2807,usr378@gt.edu,Nintendo,Cartridge
+2808,usr378@gt.edu,Xbox,Optical disc
+2814,usr379@gt.edu,Nintendo,Cartridge
+2819,usr379@gt.edu,Nintendo,Cartridge
+2820,usr380@gt.edu,Xbox,Optical disc
+2821,usr380@gt.edu,PlayStation,Optical disc
+2822,usr380@gt.edu,Xbox,Cartridge
+2826,usr380@gt.edu,Nintendo,Optical disc
+2831,usr381@gt.edu,Nintendo,Cartridge
+2836,usr381@gt.edu,Nintendo,Game card
+2838,usr381@gt.edu,Xbox,Game card
+2840,usr382@gt.edu,Nintendo,Game card
+2841,usr382@gt.edu,PlayStation,Optical disc
+2845,usr382@gt.edu,PlayStation,Cartridge
+2847,usr382@gt.edu,PlayStation,Game card
+2848,usr383@gt.edu,Nintendo,Game card
+2852,usr383@gt.edu,Xbox,Game card
+2854,usr383@gt.edu,Xbox,Cartridge
+2856,usr384@gt.edu,PlayStation,Game card
+2865,usr385@gt.edu,Nintendo,Cartridge
+2868,usr385@gt.edu,Xbox,Cartridge
+2872,usr385@gt.edu,Nintendo,Optical disc
+2879,usr386@gt.edu,PlayStation,Game card
+2881,usr386@gt.edu,Nintendo,Game card
+2886,usr387@gt.edu,Xbox,Game card
+2889,usr387@gt.edu,Xbox,Cartridge
+2890,usr387@gt.edu,Xbox,Cartridge
+2893,usr388@gt.edu,Xbox,Game card
+2899,usr389@gt.edu,Nintendo,Optical disc
+2900,usr389@gt.edu,PlayStation,Optical disc
+2902,usr389@gt.edu,Nintendo,Game card
+2907,usr389@gt.edu,PlayStation,Cartridge
+2911,usr390@gt.edu,PlayStation,Cartridge
+2915,usr390@gt.edu,Xbox,Optical disc
+2917,usr390@gt.edu,PlayStation,Cartridge
+2918,usr390@gt.edu,PlayStation,Optical disc
+2923,usr391@gt.edu,Xbox,Game card
+2926,usr392@gt.edu,Nintendo,Optical disc
+2930,usr392@gt.edu,Xbox,Game card
+2931,usr392@gt.edu,Xbox,Game card
+2932,usr392@gt.edu,Xbox,Optical disc
+2933,usr392@gt.edu,Xbox,Optical disc
+2935,usr392@gt.edu,Nintendo,Cartridge
+2937,usr393@gt.edu,Xbox,Game card
+2939,usr393@gt.edu,PlayStation,Game card
+2946,usr394@gt.edu,Nintendo,Cartridge
+2948,usr394@gt.edu,Xbox,Game card
+2950,usr394@gt.edu,Xbox,Game card
+2953,usr395@gt.edu,PlayStation,Optical disc
+2958,usr395@gt.edu,Nintendo,Optical disc
+2961,usr396@gt.edu,Xbox,Cartridge
+2964,usr396@gt.edu,Xbox,Optical disc
+2967,usr396@gt.edu,Nintendo,Optical disc
+2969,usr396@gt.edu,Nintendo,Cartridge
+2971,usr397@gt.edu,Nintendo,Game card
+2972,usr397@gt.edu,Nintendo,Optical disc
+2974,usr397@gt.edu,Xbox,Game card
+2976,usr397@gt.edu,Nintendo,Game card
+2977,usr397@gt.edu,Xbox,Optical disc
+2981,usr398@gt.edu,PlayStation,Cartridge
+2982,usr398@gt.edu,Nintendo,Game card
+2987,usr398@gt.edu,PlayStation,Game card
+2990,usr398@gt.edu,PlayStation,Cartridge
+2993,usr399@gt.edu,Nintendo,Optical disc
+2995,usr400@gt.edu,Nintendo,Game card
+2996,usr400@gt.edu,PlayStation,Cartridge
+2997,usr400@gt.edu,PlayStation,Game card
+3003,usr401@gt.edu,Xbox,Game card
+3007,usr402@gt.edu,Nintendo,Optical disc
+3009,usr402@gt.edu,Nintendo,Cartridge
+3014,usr403@gt.edu,Xbox,Optical disc
+3015,usr403@gt.edu,Xbox,Game card
+3017,usr403@gt.edu,Nintendo,Cartridge
+3018,usr403@gt.edu,PlayStation,Cartridge
+3021,usr403@gt.edu,Nintendo,Game card
+3025,usr404@gt.edu,Xbox,Optical disc
+3026,usr404@gt.edu,Nintendo,Optical disc
+3027,usr404@gt.edu,Xbox,Optical disc
+3033,usr404@gt.edu,Xbox,Optical disc
+3035,usr405@gt.edu,PlayStation,Game card
+3036,usr405@gt.edu,Nintendo,Cartridge
+3040,usr405@gt.edu,Xbox,Cartridge
+3041,usr405@gt.edu,PlayStation,Game card
+3043,usr405@gt.edu,Nintendo,Optical disc
+3049,usr406@gt.edu,Nintendo,Game card
+3050,usr406@gt.edu,PlayStation,Optical disc
+3051,usr406@gt.edu,Xbox,Optical disc
+3054,usr407@gt.edu,PlayStation,Cartridge
+3055,usr407@gt.edu,PlayStation,Cartridge
+3057,usr407@gt.edu,Nintendo,Optical disc
+3061,usr408@gt.edu,Xbox,Optical disc
+3068,usr409@gt.edu,Xbox,Cartridge
+3069,usr409@gt.edu,PlayStation,Optical disc
+3074,usr410@gt.edu,Nintendo,Optical disc
+3075,usr410@gt.edu,Xbox,Cartridge
+3076,usr410@gt.edu,Xbox,Optical disc
+3085,usr411@gt.edu,Xbox,Cartridge
+3096,usr413@gt.edu,Xbox,Optical disc
+3097,usr413@gt.edu,Nintendo,Game card
+3105,usr414@gt.edu,Xbox,Optical disc
+3106,usr414@gt.edu,Nintendo,Game card
+3107,usr414@gt.edu,Xbox,Cartridge
+3109,usr414@gt.edu,Xbox,Cartridge
+3112,usr414@gt.edu,PlayStation,Cartridge
+3117,usr415@gt.edu,Xbox,Optical disc
+3133,usr418@gt.edu,Nintendo,Game card
+3134,usr418@gt.edu,Nintendo,Game card
+3138,usr418@gt.edu,Nintendo,Game card
+3139,usr418@gt.edu,Nintendo,Game card
+3141,usr419@gt.edu,Xbox,Optical disc
+3142,usr419@gt.edu,PlayStation,Cartridge
+3143,usr419@gt.edu,Xbox,Cartridge
+3144,usr419@gt.edu,Xbox,Optical disc
+3145,usr419@gt.edu,Xbox,Game card
+3148,usr420@gt.edu,Xbox,Optical disc
+3151,usr421@gt.edu,Xbox,Optical disc
+3153,usr421@gt.edu,Nintendo,Game card
+3154,usr421@gt.edu,Nintendo,Game card
+3156,usr421@gt.edu,Xbox,Game card
+3158,usr421@gt.edu,PlayStation,Cartridge
+3162,usr422@gt.edu,PlayStation,Optical disc
+3168,usr423@gt.edu,PlayStation,Game card
+3172,usr424@gt.edu,Xbox,Optical disc
+3173,usr424@gt.edu,Xbox,Optical disc
+3176,usr425@gt.edu,Nintendo,Optical disc
+3180,usr426@gt.edu,Xbox,Game card
+3191,usr428@gt.edu,PlayStation,Cartridge
+3201,usr429@gt.edu,PlayStation,Optical disc
+3202,usr429@gt.edu,PlayStation,Cartridge
+3204,usr430@gt.edu,Xbox,Optical disc
+3205,usr430@gt.edu,PlayStation,Game card
+3206,usr430@gt.edu,Xbox,Optical disc
+3208,usr430@gt.edu,PlayStation,Game card
+3209,usr430@gt.edu,Xbox,Cartridge
+3215,usr431@gt.edu,PlayStation,Optical disc
+3217,usr431@gt.edu,PlayStation,Game card
+3219,usr432@gt.edu,PlayStation,Game card
+3220,usr432@gt.edu,Xbox,Game card
+3222,usr432@gt.edu,PlayStation,Cartridge
+3224,usr433@gt.edu,Nintendo,Cartridge
+3227,usr433@gt.edu,Xbox,Cartridge
+3228,usr434@gt.edu,Xbox,Cartridge
+3234,usr435@gt.edu,PlayStation,Optical disc
+3235,usr435@gt.edu,PlayStation,Optical disc
+3243,usr437@gt.edu,PlayStation,Game card
+3245,usr437@gt.edu,Nintendo,Cartridge
+3247,usr438@gt.edu,Xbox,Game card
+3257,usr438@gt.edu,PlayStation,Game card
+3261,usr439@gt.edu,Xbox,Optical disc
+3264,usr440@gt.edu,Nintendo,Game card
+3265,usr440@gt.edu,Xbox,Cartridge
+3269,usr440@gt.edu,PlayStation,Optical disc
+3270,usr441@gt.edu,PlayStation,Optical disc
+3273,usr441@gt.edu,PlayStation,Cartridge
+3278,usr442@gt.edu,Xbox,Game card
+3286,usr443@gt.edu,Nintendo,Game card
+3290,usr443@gt.edu,Xbox,Cartridge
+3297,usr445@gt.edu,Nintendo,Game card
+3298,usr445@gt.edu,PlayStation,Cartridge
+3301,usr445@gt.edu,Xbox,Optical disc
+3303,usr446@gt.edu,Xbox,Cartridge
+3305,usr446@gt.edu,Xbox,Optical disc
+3306,usr446@gt.edu,Nintendo,Game card
+3310,usr446@gt.edu,PlayStation,Game card
+3311,usr446@gt.edu,Nintendo,Optical disc
+3314,usr447@gt.edu,Xbox,Optical disc
+3319,usr449@gt.edu,Nintendo,Game card
+3321,usr449@gt.edu,Xbox,Optical disc
+3325,usr449@gt.edu,Nintendo,Cartridge
+3326,usr449@gt.edu,Nintendo,Game card
+3330,usr450@gt.edu,PlayStation,Cartridge
+3333,usr450@gt.edu,Nintendo,Optical disc
+3342,usr451@gt.edu,Nintendo,Game card
+3347,usr452@gt.edu,Nintendo,Optical disc
+3349,usr452@gt.edu,Xbox,Cartridge
+3350,usr452@gt.edu,Nintendo,Game card
+3351,usr452@gt.edu,Nintendo,Cartridge
+3359,usr453@gt.edu,Xbox,Optical disc
+3361,usr454@gt.edu,Nintendo,Cartridge
+3362,usr454@gt.edu,Xbox,Optical disc
+3364,usr454@gt.edu,Xbox,Game card
+3366,usr454@gt.edu,PlayStation,Game card
+3367,usr454@gt.edu,Xbox,Game card
+3368,usr454@gt.edu,PlayStation,Optical disc
+3380,usr456@gt.edu,Nintendo,Optical disc
+3383,usr456@gt.edu,PlayStation,Cartridge
+3388,usr457@gt.edu,Nintendo,Optical disc
+3394,usr457@gt.edu,Nintendo,Cartridge
+3395,usr457@gt.edu,Xbox,Optical disc
+3401,usr459@gt.edu,Nintendo,Game card
+3408,usr460@gt.edu,PlayStation,Cartridge
+3411,usr461@gt.edu,Xbox,Cartridge
+3413,usr461@gt.edu,Xbox,Cartridge
+3416,usr461@gt.edu,Xbox,Optical disc
+3422,usr462@gt.edu,Xbox,Cartridge
+3426,usr463@gt.edu,Xbox,Game card
+3428,usr463@gt.edu,PlayStation,Optical disc
+3433,usr464@gt.edu,Xbox,Game card
+3441,usr465@gt.edu,PlayStation,Cartridge
+3444,usr465@gt.edu,Nintendo,Cartridge
+3449,usr466@gt.edu,Nintendo,Game card
+3453,usr467@gt.edu,Nintendo,Optical disc
+3456,usr468@gt.edu,PlayStation,Optical disc
+3459,usr468@gt.edu,Nintendo,Game card
+3464,usr470@gt.edu,Xbox,Optical disc
+3466,usr470@gt.edu,Nintendo,Optical disc
+3473,usr470@gt.edu,Nintendo,Game card
+3478,usr472@gt.edu,Nintendo,Cartridge
+3482,usr473@gt.edu,PlayStation,Cartridge
+3484,usr473@gt.edu,Xbox,Cartridge
+3486,usr473@gt.edu,Xbox,Game card
+3488,usr474@gt.edu,Xbox,Optical disc
+3489,usr474@gt.edu,Nintendo,Game card
+3494,usr474@gt.edu,Xbox,Optical disc
+3495,usr474@gt.edu,Xbox,Optical disc
+3498,usr475@gt.edu,Nintendo,Optical disc
+3499,usr475@gt.edu,Nintendo,Game card
+3501,usr475@gt.edu,Nintendo,Optical disc
+3503,usr475@gt.edu,PlayStation,Optical disc
+3505,usr476@gt.edu,Xbox,Optical disc
+3506,usr476@gt.edu,Xbox,Game card
+3508,usr476@gt.edu,Nintendo,Optical disc
+3511,usr476@gt.edu,Nintendo,Optical disc
+3516,usr477@gt.edu,Xbox,Cartridge
+3517,usr477@gt.edu,Xbox,Cartridge
+3518,usr477@gt.edu,Nintendo,Game card
+3519,usr477@gt.edu,Xbox,Game card
+3529,usr478@gt.edu,Xbox,Optical disc
+3531,usr479@gt.edu,Xbox,Cartridge
+3533,usr479@gt.edu,Xbox,Cartridge
+3540,usr481@gt.edu,Xbox,Optical disc
+3545,usr481@gt.edu,Xbox,Game card
+3546,usr481@gt.edu,PlayStation,Game card
+3549,usr481@gt.edu,Nintendo,Game card
+3557,usr482@gt.edu,PlayStation,Game card
+3561,usr483@gt.edu,Xbox,Optical disc
+3566,usr483@gt.edu,Xbox,Optical disc
+3571,usr485@gt.edu,Xbox,Cartridge
+3575,usr485@gt.edu,Xbox,Optical disc
+3582,usr486@gt.edu,Xbox,Cartridge
+3589,usr488@gt.edu,PlayStation,Game card
+3591,usr488@gt.edu,Xbox,Game card
+3600,usr489@gt.edu,PlayStation,Optical disc
+3602,usr489@gt.edu,Xbox,Optical disc
+3609,usr490@gt.edu,Xbox,Game card
+3613,usr491@gt.edu,Xbox,Cartridge
+3619,usr493@gt.edu,Nintendo,Optical disc
+3624,usr493@gt.edu,Xbox,Optical disc
+3630,usr494@gt.edu,Nintendo,Cartridge
+3631,usr494@gt.edu,Xbox,Optical disc
+3632,usr494@gt.edu,Xbox,Cartridge
+3633,usr494@gt.edu,Nintendo,Cartridge
+3635,usr494@gt.edu,PlayStation,Optical disc
+3640,usr494@gt.edu,Nintendo,Optical disc
+3642,usr495@gt.edu,Nintendo,Cartridge
+3657,usr497@gt.edu,Xbox,Cartridge
+3660,usr497@gt.edu,Xbox,Optical disc
+3663,usr497@gt.edu,Xbox,Cartridge
+3666,usr498@gt.edu,PlayStation,Game card
+3668,usr499@gt.edu,Xbox,Game card
+3669,usr499@gt.edu,Xbox,Game card
+3673,usr500@gt.edu,Nintendo,Game card
+3674,usr500@gt.edu,Nintendo,Cartridge
+3676,usr500@gt.edu,PlayStation,Optical disc
+3678,usr500@gt.edu,Nintendo,Cartridge
+3680,usr500@gt.edu,Xbox,Game card
+3682,usr500@gt.edu,PlayStation,Cartridge
+3684,usr501@gt.edu,Xbox,Optical disc
+3691,usr502@gt.edu,PlayStation,Optical disc
+3699,usr502@gt.edu,Xbox,Game card
+3702,usr503@gt.edu,Nintendo,Cartridge
+3717,usr504@gt.edu,Nintendo,Game card
+3718,usr504@gt.edu,Nintendo,Optical disc
+3721,usr505@gt.edu,Xbox,Optical disc
+3722,usr505@gt.edu,Nintendo,Optical disc
+3729,usr506@gt.edu,PlayStation,Game card
+3733,usr506@gt.edu,Xbox,Game card
+3735,usr507@gt.edu,Xbox,Optical disc
+3736,usr507@gt.edu,Xbox,Cartridge
+3738,usr507@gt.edu,Nintendo,Optical disc
+3744,usr508@gt.edu,Nintendo,Game card
+3747,usr508@gt.edu,Nintendo,Cartridge
+3750,usr508@gt.edu,Xbox,Cartridge
+3754,usr509@gt.edu,Xbox,Cartridge
+3758,usr510@gt.edu,PlayStation,Game card
+3760,usr510@gt.edu,Nintendo,Optical disc
+3762,usr510@gt.edu,Xbox,Cartridge
+3764,usr510@gt.edu,Nintendo,Optical disc
+3765,usr510@gt.edu,Xbox,Game card
+3768,usr511@gt.edu,Xbox,Optical disc
+3773,usr511@gt.edu,PlayStation,Game card
+3774,usr512@gt.edu,Xbox,Game card
+3776,usr512@gt.edu,PlayStation,Cartridge
+3777,usr512@gt.edu,Nintendo,Cartridge
+3792,usr513@gt.edu,PlayStation,Game card
+3798,usr514@gt.edu,Nintendo,Game card
+3802,usr514@gt.edu,Xbox,Cartridge
+3809,usr515@gt.edu,Nintendo,Cartridge
+3810,usr515@gt.edu,Xbox,Cartridge
+3812,usr515@gt.edu,Xbox,Game card
+3814,usr515@gt.edu,Nintendo,Optical disc
+3817,usr516@gt.edu,Nintendo,Optical disc
+3818,usr516@gt.edu,Xbox,Optical disc
+3821,usr516@gt.edu,Nintendo,Cartridge
+3823,usr517@gt.edu,Xbox,Cartridge
+3824,usr517@gt.edu,Nintendo,Cartridge
+3826,usr517@gt.edu,PlayStation,Cartridge
+3827,usr517@gt.edu,Nintendo,Game card
+3830,usr517@gt.edu,Nintendo,Optical disc
+3840,usr518@gt.edu,Nintendo,Game card
+3843,usr518@gt.edu,Nintendo,Game card
+3844,usr518@gt.edu,Xbox,Optical disc
+3849,usr519@gt.edu,Nintendo,Game card
+3850,usr519@gt.edu,PlayStation,Optical disc
+3852,usr520@gt.edu,Nintendo,Optical disc
+3857,usr520@gt.edu,Nintendo,Optical disc
+3860,usr521@gt.edu,Nintendo,Game card
+3862,usr522@gt.edu,PlayStation,Optical disc
+3863,usr522@gt.edu,Nintendo,Game card
+3864,usr522@gt.edu,Nintendo,Game card
+3865,usr523@gt.edu,Xbox,Game card
+3866,usr523@gt.edu,Nintendo,Optical disc
+3869,usr523@gt.edu,Xbox,Cartridge
+3870,usr523@gt.edu,Xbox,Optical disc
+3872,usr523@gt.edu,PlayStation,Game card
+3873,usr523@gt.edu,Xbox,Optical disc
+3874,usr523@gt.edu,PlayStation,Game card
+3875,usr523@gt.edu,Xbox,Game card
+3876,usr523@gt.edu,PlayStation,Cartridge
+3878,usr524@gt.edu,Xbox,Optical disc
+3884,usr524@gt.edu,Nintendo,Optical disc
+3888,usr525@gt.edu,Xbox,Cartridge
+3889,usr525@gt.edu,Xbox,Cartridge
+3891,usr526@gt.edu,Xbox,Cartridge
+3894,usr526@gt.edu,Nintendo,Cartridge
+3897,usr526@gt.edu,Xbox,Game card
+3898,usr526@gt.edu,PlayStation,Cartridge
+3905,usr527@gt.edu,Nintendo,Game card
+3907,usr527@gt.edu,Nintendo,Optical disc
+3908,usr527@gt.edu,PlayStation,Optical disc
+3911,usr528@gt.edu,Xbox,Game card
+3914,usr528@gt.edu,Xbox,Optical disc
+3921,usr529@gt.edu,PlayStation,Cartridge
+3922,usr529@gt.edu,Nintendo,Game card
+3925,usr529@gt.edu,Xbox,Cartridge
+3926,usr529@gt.edu,Xbox,Optical disc
+3927,usr529@gt.edu,Nintendo,Optical disc
+3931,usr530@gt.edu,Nintendo,Game card
+3932,usr530@gt.edu,Nintendo,Game card
+3935,usr531@gt.edu,Nintendo,Game card
+3940,usr531@gt.edu,PlayStation,Optical disc
+3949,usr532@gt.edu,Nintendo,Game card
+3954,usr533@gt.edu,PlayStation,Cartridge
+3968,usr535@gt.edu,Xbox,Cartridge
+3978,usr536@gt.edu,PlayStation,Cartridge
+3982,usr537@gt.edu,Xbox,Optical disc
+3985,usr537@gt.edu,Xbox,Cartridge
+3986,usr537@gt.edu,PlayStation,Cartridge
+3987,usr537@gt.edu,PlayStation,Optical disc
+3992,usr538@gt.edu,Xbox,Game card
+3998,usr539@gt.edu,PlayStation,Game card
+4001,usr540@gt.edu,PlayStation,Optical disc
+4006,usr540@gt.edu,Nintendo,Optical disc
+4007,usr540@gt.edu,Xbox,Cartridge
+4008,usr540@gt.edu,Xbox,Cartridge
+4031,usr544@gt.edu,Nintendo,Game card
+4032,usr545@gt.edu,Nintendo,Game card
+4035,usr545@gt.edu,Nintendo,Optical disc
+4041,usr546@gt.edu,Nintendo,Cartridge
+4046,usr547@gt.edu,Xbox,Optical disc
+4050,usr547@gt.edu,Xbox,Optical disc
+4053,usr548@gt.edu,Xbox,Game card
+4055,usr548@gt.edu,PlayStation,Cartridge
+4059,usr549@gt.edu,Xbox,Game card
+4061,usr549@gt.edu,Xbox,Cartridge
+4074,usr550@gt.edu,Xbox,Cartridge
+4077,usr551@gt.edu,Xbox,Game card
+4081,usr551@gt.edu,Xbox,Game card
+4091,usr553@gt.edu,Nintendo,Cartridge
+4094,usr553@gt.edu,Nintendo,Cartridge
+4096,usr553@gt.edu,Xbox,Cartridge
+4106,usr554@gt.edu,Xbox,Cartridge
+4107,usr554@gt.edu,PlayStation,Optical disc
+4111,usr555@gt.edu,Nintendo,Game card
+4112,usr555@gt.edu,Xbox,Cartridge
+4116,usr555@gt.edu,PlayStation,Game card
+4128,usr557@gt.edu,Nintendo,Cartridge
+4130,usr558@gt.edu,Nintendo,Cartridge
+4135,usr559@gt.edu,Xbox,Optical disc
+4141,usr560@gt.edu,PlayStation,Game card
+4142,usr560@gt.edu,Nintendo,Game card
+4148,usr561@gt.edu,PlayStation,Cartridge
+4150,usr562@gt.edu,Nintendo,Optical disc
+4152,usr562@gt.edu,Nintendo,Game card
+4153,usr562@gt.edu,PlayStation,Game card
+4156,usr562@gt.edu,Xbox,Optical disc
+4161,usr563@gt.edu,Nintendo,Game card
+4164,usr563@gt.edu,Xbox,Optical disc
+4165,usr563@gt.edu,Nintendo,Cartridge
+4172,usr564@gt.edu,Nintendo,Optical disc
+4173,usr564@gt.edu,PlayStation,Optical disc
+4177,usr565@gt.edu,Nintendo,Cartridge
+4178,usr565@gt.edu,Xbox,Optical disc
+4179,usr565@gt.edu,Xbox,Game card
+4185,usr565@gt.edu,Nintendo,Cartridge
+4188,usr566@gt.edu,Nintendo,Game card
+4191,usr566@gt.edu,Xbox,Game card
+4194,usr566@gt.edu,Xbox,Cartridge
+4196,usr567@gt.edu,Nintendo,Game card
+4197,usr567@gt.edu,PlayStation,Cartridge
+4202,usr568@gt.edu,Nintendo,Game card
+4203,usr568@gt.edu,Nintendo,Game card
+4205,usr569@gt.edu,Nintendo,Game card
+4217,usr570@gt.edu,Nintendo,Optical disc
+4219,usr570@gt.edu,Nintendo,Game card
+4225,usr571@gt.edu,PlayStation,Game card
+4226,usr571@gt.edu,Xbox,Cartridge
+4228,usr572@gt.edu,Xbox,Game card
+4233,usr572@gt.edu,Xbox,Game card
+4241,usr573@gt.edu,Nintendo,Cartridge
+4242,usr573@gt.edu,Nintendo,Cartridge
+4243,usr573@gt.edu,Nintendo,Optical disc
+4250,usr574@gt.edu,Xbox,Optical disc
+4253,usr574@gt.edu,Xbox,Optical disc
+4258,usr575@gt.edu,Xbox,Optical disc
+4262,usr576@gt.edu,Xbox,Game card
+4268,usr577@gt.edu,Nintendo,Game card
+4270,usr578@gt.edu,Nintendo,Game card
+4271,usr578@gt.edu,Xbox,Cartridge
+4280,usr578@gt.edu,Xbox,Optical disc
+4287,usr579@gt.edu,Xbox,Optical disc
+4288,usr579@gt.edu,PlayStation,Optical disc
+4290,usr579@gt.edu,Xbox,Cartridge
+4291,usr579@gt.edu,Nintendo,Game card
+4298,usr581@gt.edu,Nintendo,Game card
+4299,usr581@gt.edu,Xbox,Cartridge
+4308,usr583@gt.edu,Xbox,Optical disc
+4313,usr584@gt.edu,Nintendo,Game card
+4314,usr584@gt.edu,Xbox,Cartridge
+4315,usr584@gt.edu,PlayStation,Game card
+4316,usr584@gt.edu,Xbox,Cartridge
+4319,usr584@gt.edu,PlayStation,Optical disc
+4320,usr584@gt.edu,Nintendo,Optical disc
+4321,usr584@gt.edu,PlayStation,Cartridge
+4322,usr584@gt.edu,Xbox,Cartridge
+4331,usr586@gt.edu,Nintendo,Cartridge
+4340,usr587@gt.edu,Xbox,Game card
+4342,usr588@gt.edu,Nintendo,Optical disc
+4345,usr588@gt.edu,Nintendo,Game card
+4350,usr589@gt.edu,PlayStation,Optical disc
+4355,usr589@gt.edu,Xbox,Optical disc
+4369,usr591@gt.edu,Xbox,Cartridge
+4375,usr593@gt.edu,Nintendo,Cartridge
+4381,usr594@gt.edu,Xbox,Game card
+4382,usr594@gt.edu,Xbox,Optical disc
+4385,usr594@gt.edu,PlayStation,Cartridge
+4388,usr595@gt.edu,Nintendo,Game card
+4390,usr595@gt.edu,Nintendo,Game card
+4397,usr595@gt.edu,Nintendo,Optical disc
+4400,usr596@gt.edu,Xbox,Cartridge
+4402,usr596@gt.edu,Nintendo,Game card
+4408,usr597@gt.edu,Xbox,Cartridge
+4409,usr597@gt.edu,Xbox,Optical disc
+4410,usr597@gt.edu,Nintendo,Optical disc
+4412,usr598@gt.edu,Nintendo,Cartridge
+4414,usr598@gt.edu,PlayStation,Game card
+4422,usr599@gt.edu,Xbox,Game card
+4423,usr599@gt.edu,Xbox,Game card
+4424,usr599@gt.edu,PlayStation,Game card
+4429,usr600@gt.edu,Nintendo,Game card
+4437,usr601@gt.edu,Nintendo,Game card
+4439,usr601@gt.edu,Nintendo,Game card
+4441,usr601@gt.edu,Nintendo,Optical disc
+4443,usr602@gt.edu,Xbox,Cartridge
+4453,usr603@gt.edu,Xbox,Cartridge
+4459,usr604@gt.edu,Nintendo,Game card
+4461,usr604@gt.edu,Nintendo,Game card
+4462,usr604@gt.edu,Xbox,Game card
+4463,usr604@gt.edu,Nintendo,Game card
+4466,usr604@gt.edu,Nintendo,Game card
+4468,usr605@gt.edu,PlayStation,Optical disc
+4469,usr605@gt.edu,Nintendo,Cartridge
+4470,usr606@gt.edu,PlayStation,Cartridge
+4471,usr606@gt.edu,PlayStation,Optical disc
+4474,usr606@gt.edu,Xbox,Optical disc
+4478,usr607@gt.edu,Xbox,Cartridge
+4485,usr608@gt.edu,Xbox,Cartridge
+4489,usr608@gt.edu,Xbox,Cartridge
+4496,usr609@gt.edu,PlayStation,Optical disc
+4499,usr610@gt.edu,Nintendo,Cartridge
+4504,usr611@gt.edu,Nintendo,Optical disc
+4512,usr611@gt.edu,Xbox,Optical disc
+4514,usr612@gt.edu,PlayStation,Game card
+4515,usr612@gt.edu,Nintendo,Game card
+4516,usr612@gt.edu,Xbox,Optical disc
+4520,usr612@gt.edu,Xbox,Cartridge
+4521,usr612@gt.edu,PlayStation,Cartridge
+4522,usr612@gt.edu,Nintendo,Optical disc
+4525,usr612@gt.edu,Nintendo,Game card
+4526,usr613@gt.edu,Xbox,Cartridge
+4529,usr613@gt.edu,Xbox,Game card
+4530,usr613@gt.edu,Nintendo,Game card
+4536,usr614@gt.edu,PlayStation,Optical disc
+4537,usr614@gt.edu,PlayStation,Optical disc
+4541,usr615@gt.edu,Xbox,Cartridge
+4542,usr615@gt.edu,Nintendo,Cartridge
+4547,usr615@gt.edu,Nintendo,Cartridge
+4553,usr616@gt.edu,Xbox,Optical disc
+4554,usr617@gt.edu,PlayStation,Game card
+4557,usr617@gt.edu,Xbox,Cartridge
+4563,usr617@gt.edu,Nintendo,Game card
+4567,usr618@gt.edu,PlayStation,Cartridge
+4568,usr618@gt.edu,Xbox,Cartridge
+4570,usr618@gt.edu,Xbox,Cartridge
+4576,usr619@gt.edu,Xbox,Optical disc
+4577,usr619@gt.edu,Xbox,Game card
+4578,usr619@gt.edu,Xbox,Optical disc
+4580,usr620@gt.edu,Xbox,Cartridge
+4582,usr620@gt.edu,Xbox,Optical disc
+4592,usr621@gt.edu,Nintendo,Optical disc
+4593,usr621@gt.edu,PlayStation,Optical disc
+4597,usr622@gt.edu,Nintendo,Game card
+4598,usr622@gt.edu,Nintendo,Optical disc
+4599,usr623@gt.edu,PlayStation,Optical disc
+4600,usr623@gt.edu,Nintendo,Cartridge
+4601,usr623@gt.edu,Xbox,Game card
+4604,usr624@gt.edu,Nintendo,Game card
+4606,usr624@gt.edu,PlayStation,Game card
+4607,usr624@gt.edu,PlayStation,Cartridge
+4610,usr624@gt.edu,Nintendo,Optical disc
+4611,usr624@gt.edu,Xbox,Game card
+4614,usr625@gt.edu,Nintendo,Optical disc
+4621,usr626@gt.edu,PlayStation,Game card
+4623,usr626@gt.edu,Xbox,Game card
+4624,usr626@gt.edu,Xbox,Game card
+4626,usr626@gt.edu,Xbox,Optical disc
+4627,usr626@gt.edu,Nintendo,Game card
+4629,usr627@gt.edu,Nintendo,Game card
+4630,usr627@gt.edu,Xbox,Cartridge
+4634,usr627@gt.edu,Xbox,Cartridge
+4636,usr628@gt.edu,Xbox,Optical disc
+4642,usr628@gt.edu,Nintendo,Game card
+4643,usr628@gt.edu,Nintendo,Cartridge
+4648,usr629@gt.edu,Xbox,Game card
+4653,usr629@gt.edu,Nintendo,Cartridge
+4664,usr631@gt.edu,Nintendo,Optical disc
+4666,usr631@gt.edu,Nintendo,Game card
+4667,usr631@gt.edu,Nintendo,Cartridge
+4672,usr632@gt.edu,PlayStation,Cartridge
+4673,usr633@gt.edu,Nintendo,Game card
+4674,usr633@gt.edu,Xbox,Game card
+4675,usr633@gt.edu,Xbox,Cartridge
+4689,usr635@gt.edu,Xbox,Game card
+4701,usr636@gt.edu,PlayStation,Optical disc
+4711,usr638@gt.edu,Nintendo,Optical disc
+4713,usr638@gt.edu,Xbox,Cartridge
+4715,usr638@gt.edu,Xbox,Cartridge
+4719,usr639@gt.edu,Xbox,Game card
+4720,usr639@gt.edu,Xbox,Optical disc
+4722,usr639@gt.edu,Nintendo,Cartridge
+4723,usr639@gt.edu,Nintendo,Cartridge
+4726,usr639@gt.edu,Nintendo,Optical disc
+4731,usr640@gt.edu,PlayStation,Optical disc
+4734,usr640@gt.edu,Xbox,Cartridge
+4738,usr640@gt.edu,PlayStation,Game card
+4741,usr641@gt.edu,Nintendo,Optical disc
+4742,usr641@gt.edu,Xbox,Cartridge
+4745,usr642@gt.edu,Nintendo,Game card
+4746,usr642@gt.edu,Nintendo,Cartridge
+4747,usr642@gt.edu,Nintendo,Cartridge
+4748,usr643@gt.edu,Xbox,Game card
+4749,usr643@gt.edu,Nintendo,Game card
+4750,usr643@gt.edu,PlayStation,Game card
+4754,usr643@gt.edu,Xbox,Game card
+4755,usr644@gt.edu,Xbox,Cartridge
+4758,usr644@gt.edu,Nintendo,Optical disc
+4764,usr645@gt.edu,Nintendo,Game card
+4766,usr645@gt.edu,PlayStation,Cartridge
+4768,usr645@gt.edu,Xbox,Optical disc
+4785,usr647@gt.edu,PlayStation,Optical disc
+4789,usr648@gt.edu,Nintendo,Cartridge
+4791,usr648@gt.edu,Xbox,Optical disc
+4794,usr648@gt.edu,Xbox,Optical disc
+4796,usr648@gt.edu,Xbox,Optical disc
+4800,usr649@gt.edu,Nintendo,Cartridge
+4801,usr649@gt.edu,Nintendo,Optical disc
+4804,usr649@gt.edu,PlayStation,Game card
+4805,usr649@gt.edu,Nintendo,Game card
+4809,usr649@gt.edu,Nintendo,Cartridge
+4813,usr650@gt.edu,Nintendo,Optical disc
+4821,usr651@gt.edu,Xbox,Optical disc
+4824,usr651@gt.edu,PlayStation,Optical disc
+4825,usr651@gt.edu,Nintendo,Cartridge
+4826,usr652@gt.edu,Xbox,Cartridge
+4831,usr652@gt.edu,Xbox,Optical disc
+4833,usr652@gt.edu,Xbox,Cartridge
+4835,usr653@gt.edu,Xbox,Cartridge
+4838,usr653@gt.edu,Nintendo,Cartridge
+4839,usr653@gt.edu,PlayStation,Optical disc
+4841,usr653@gt.edu,PlayStation,Optical disc
+4843,usr654@gt.edu,Nintendo,Optical disc
+4848,usr654@gt.edu,Xbox,Game card
+4849,usr654@gt.edu,Xbox,Game card
+4851,usr655@gt.edu,PlayStation,Game card
+4855,usr655@gt.edu,Nintendo,Game card
+4857,usr655@gt.edu,PlayStation,Cartridge
+4858,usr656@gt.edu,Xbox,Cartridge
+4872,usr658@gt.edu,Nintendo,Cartridge
+4873,usr658@gt.edu,PlayStation,Cartridge
+4875,usr658@gt.edu,Xbox,Game card
+4876,usr658@gt.edu,Xbox,Cartridge
+4881,usr659@gt.edu,Nintendo,Game card
+4887,usr659@gt.edu,Xbox,Game card
+4890,usr659@gt.edu,Nintendo,Game card
+4895,usr660@gt.edu,Nintendo,Optical disc
+4898,usr660@gt.edu,Nintendo,Game card
+4899,usr660@gt.edu,PlayStation,Cartridge
+4901,usr661@gt.edu,Nintendo,Optical disc
+4905,usr662@gt.edu,Xbox,Game card
+4908,usr662@gt.edu,Nintendo,Optical disc
+4918,usr664@gt.edu,Xbox,Cartridge
+4925,usr665@gt.edu,Nintendo,Cartridge
+4929,usr665@gt.edu,Xbox,Game card
+4934,usr666@gt.edu,Nintendo,Game card
+4935,usr666@gt.edu,Nintendo,Game card
+4940,usr666@gt.edu,Xbox,Optical disc
+4948,usr667@gt.edu,Xbox,Cartridge
+4954,usr668@gt.edu,Xbox,Cartridge
+4955,usr668@gt.edu,Xbox,Optical disc
+4958,usr669@gt.edu,Nintendo,Cartridge
+4959,usr669@gt.edu,PlayStation,Game card
+4960,usr669@gt.edu,Xbox,Cartridge
+4961,usr670@gt.edu,Xbox,Game card
+4969,usr671@gt.edu,Nintendo,Optical disc
+4971,usr671@gt.edu,Xbox,Optical disc
+4972,usr672@gt.edu,PlayStation,Game card
+4975,usr672@gt.edu,Xbox,Game card
+4979,usr672@gt.edu,PlayStation,Optical disc
+4986,usr673@gt.edu,Nintendo,Optical disc
+4993,usr674@gt.edu,PlayStation,Cartridge
+4997,usr674@gt.edu,Nintendo,Cartridge
+4998,usr674@gt.edu,Xbox,Optical disc
+4999,usr674@gt.edu,Xbox,Cartridge
+5004,usr675@gt.edu,Nintendo,Cartridge
+5010,usr677@gt.edu,Nintendo,Game card
+5011,usr677@gt.edu,Xbox,Game card
+5016,usr677@gt.edu,Nintendo,Optical disc
+5019,usr678@gt.edu,Nintendo,Game card
+5020,usr678@gt.edu,Nintendo,Game card
+5021,usr678@gt.edu,PlayStation,Cartridge
+5030,usr679@gt.edu,Nintendo,Game card
+5032,usr679@gt.edu,Xbox,Optical disc
+5034,usr679@gt.edu,Xbox,Optical disc
+5035,usr679@gt.edu,Nintendo,Optical disc
+5036,usr679@gt.edu,PlayStation,Optical disc
+5042,usr680@gt.edu,PlayStation,Game card
+5045,usr680@gt.edu,Xbox,Cartridge
+5056,usr682@gt.edu,Xbox,Cartridge
+5060,usr682@gt.edu,Xbox,Game card
+5061,usr682@gt.edu,Xbox,Optical disc
+5066,usr682@gt.edu,Xbox,Optical disc
+5069,usr683@gt.edu,Nintendo,Game card
+5074,usr683@gt.edu,Xbox,Game card
+5076,usr683@gt.edu,Xbox,Cartridge
+5078,usr684@gt.edu,Xbox,Cartridge
+5080,usr684@gt.edu,Nintendo,Game card
+5083,usr685@gt.edu,Xbox,Game card
+5084,usr685@gt.edu,Nintendo,Game card
+5091,usr686@gt.edu,Xbox,Optical disc
+5092,usr686@gt.edu,Xbox,Game card
+5095,usr686@gt.edu,Xbox,Cartridge
+5097,usr687@gt.edu,Nintendo,Cartridge
+5098,usr687@gt.edu,Xbox,Cartridge
+5099,usr687@gt.edu,Xbox,Cartridge
+5103,usr687@gt.edu,Xbox,Game card
+5105,usr688@gt.edu,Nintendo,Cartridge
+5109,usr688@gt.edu,Xbox,Optical disc
+5116,usr689@gt.edu,Xbox,Cartridge
+5118,usr689@gt.edu,PlayStation,Game card
+5123,usr691@gt.edu,Xbox,Cartridge
+5126,usr691@gt.edu,Nintendo,Cartridge
+5127,usr691@gt.edu,Nintendo,Cartridge
+5134,usr692@gt.edu,Xbox,Cartridge
+5137,usr692@gt.edu,PlayStation,Cartridge
+5142,usr693@gt.edu,PlayStation,Game card
+5148,usr694@gt.edu,Xbox,Game card
+5152,usr695@gt.edu,PlayStation,Cartridge
+5156,usr695@gt.edu,Nintendo,Game card
+5157,usr695@gt.edu,Xbox,Cartridge
+5158,usr696@gt.edu,PlayStation,Cartridge
+5160,usr696@gt.edu,PlayStation,Game card
+5165,usr697@gt.edu,Xbox,Game card
+5169,usr698@gt.edu,Nintendo,Optical disc
+5172,usr698@gt.edu,Xbox,Game card
+5175,usr699@gt.edu,Nintendo,Cartridge
+5179,usr700@gt.edu,Xbox,Cartridge
+5184,usr700@gt.edu,Xbox,Optical disc
+5189,usr702@gt.edu,Xbox,Optical disc
+5190,usr702@gt.edu,Xbox,Game card
+5191,usr702@gt.edu,Xbox,Game card
+5193,usr702@gt.edu,PlayStation,Cartridge
+5196,usr702@gt.edu,Xbox,Optical disc
+5197,usr703@gt.edu,Nintendo,Game card
+5201,usr704@gt.edu,Xbox,Cartridge
+5207,usr705@gt.edu,Xbox,Game card
+5208,usr705@gt.edu,PlayStation,Cartridge
+5220,usr706@gt.edu,PlayStation,Optical disc
+5221,usr707@gt.edu,Nintendo,Optical disc
+5227,usr707@gt.edu,Xbox,Game card
+5230,usr708@gt.edu,Nintendo,Optical disc
+5231,usr708@gt.edu,Nintendo,Cartridge
+5239,usr708@gt.edu,Xbox,Cartridge
+5242,usr709@gt.edu,Nintendo,Optical disc
+5246,usr709@gt.edu,PlayStation,Optical disc
+5247,usr709@gt.edu,Nintendo,Game card
+5256,usr711@gt.edu,Nintendo,Game card
+5261,usr711@gt.edu,Xbox,Cartridge
+5267,usr712@gt.edu,Xbox,Optical disc
+5270,usr712@gt.edu,Xbox,Optical disc
+5271,usr712@gt.edu,Xbox,Cartridge
+5272,usr712@gt.edu,PlayStation,Cartridge
+5274,usr712@gt.edu,Nintendo,Optical disc
+5281,usr714@gt.edu,Nintendo,Cartridge
+5282,usr714@gt.edu,PlayStation,Game card
+5283,usr714@gt.edu,Nintendo,Game card
+5287,usr714@gt.edu,Xbox,Cartridge
+5288,usr714@gt.edu,Xbox,Game card
+5291,usr715@gt.edu,Xbox,Game card
+5293,usr715@gt.edu,Nintendo,Optical disc
+5295,usr715@gt.edu,Nintendo,Game card
+5298,usr715@gt.edu,Xbox,Optical disc
+5303,usr716@gt.edu,Xbox,Game card
+5304,usr716@gt.edu,Xbox,Game card
+5305,usr716@gt.edu,Xbox,Game card
+5306,usr716@gt.edu,Nintendo,Game card
+5308,usr716@gt.edu,PlayStation,Optical disc
+5311,usr717@gt.edu,Nintendo,Game card
+5317,usr718@gt.edu,PlayStation,Game card
+5319,usr719@gt.edu,Nintendo,Optical disc
+5321,usr719@gt.edu,Xbox,Optical disc
+5324,usr720@gt.edu,Xbox,Optical disc
+5325,usr720@gt.edu,Xbox,Optical disc
+5334,usr721@gt.edu,Nintendo,Cartridge
+5338,usr721@gt.edu,Xbox,Cartridge
+5341,usr722@gt.edu,Xbox,Optical disc
+5342,usr722@gt.edu,Nintendo,Game card
+5346,usr723@gt.edu,PlayStation,Cartridge
+5349,usr723@gt.edu,Nintendo,Cartridge
+5352,usr723@gt.edu,Nintendo,Cartridge
+5356,usr724@gt.edu,Xbox,Cartridge
+5357,usr724@gt.edu,PlayStation,Cartridge
+5358,usr724@gt.edu,Nintendo,Cartridge
+5363,usr724@gt.edu,Xbox,Optical disc
+5364,usr724@gt.edu,Xbox,Optical disc
+5366,usr725@gt.edu,Xbox,Game card
+5368,usr725@gt.edu,Xbox,Cartridge
+5370,usr725@gt.edu,Nintendo,Cartridge
+5371,usr725@gt.edu,Nintendo,Optical disc
+5374,usr726@gt.edu,Xbox,Game card
+5375,usr726@gt.edu,Xbox,Optical disc
+5381,usr726@gt.edu,Xbox,Optical disc
+5385,usr727@gt.edu,Xbox,Game card
+5393,usr729@gt.edu,Xbox,Optical disc
+5394,usr729@gt.edu,Nintendo,Game card
+5397,usr729@gt.edu,Nintendo,Optical disc
+5400,usr730@gt.edu,Xbox,Game card
+5402,usr730@gt.edu,Nintendo,Cartridge
+5409,usr730@gt.edu,Xbox,Optical disc
+5411,usr731@gt.edu,PlayStation,Cartridge
+5415,usr731@gt.edu,Nintendo,Optical disc
+5418,usr732@gt.edu,Xbox,Optical disc
+5425,usr732@gt.edu,PlayStation,Optical disc
+5426,usr732@gt.edu,Xbox,Optical disc
+5428,usr733@gt.edu,Xbox,Game card
+5429,usr733@gt.edu,Xbox,Cartridge
+5435,usr733@gt.edu,Xbox,Cartridge
+5440,usr734@gt.edu,Xbox,Cartridge
+5441,usr734@gt.edu,Xbox,Game card
+5443,usr734@gt.edu,Nintendo,Game card
+5447,usr735@gt.edu,Nintendo,Cartridge
+5448,usr735@gt.edu,PlayStation,Game card
+5453,usr736@gt.edu,PlayStation,Optical disc
+5460,usr737@gt.edu,PlayStation,Cartridge
+5461,usr737@gt.edu,PlayStation,Cartridge
+5463,usr737@gt.edu,Nintendo,Game card
+5467,usr737@gt.edu,Nintendo,Optical disc
+5468,usr737@gt.edu,PlayStation,Cartridge
+5473,usr738@gt.edu,Nintendo,Game card
+5476,usr738@gt.edu,PlayStation,Optical disc
+5483,usr739@gt.edu,Nintendo,Optical disc
+5486,usr739@gt.edu,Nintendo,Optical disc
+5488,usr739@gt.edu,Nintendo,Cartridge
+5490,usr740@gt.edu,PlayStation,Game card
+5493,usr740@gt.edu,PlayStation,Optical disc
+5497,usr740@gt.edu,Xbox,Game card
+5501,usr741@gt.edu,Nintendo,Optical disc
+5507,usr741@gt.edu,PlayStation,Optical disc
+5510,usr742@gt.edu,PlayStation,Cartridge
+5518,usr743@gt.edu,PlayStation,Optical disc
+5523,usr743@gt.edu,Xbox,Cartridge
+5525,usr744@gt.edu,Xbox,Cartridge
+5529,usr744@gt.edu,Xbox,Optical disc
+5531,usr744@gt.edu,Nintendo,Game card
+5532,usr745@gt.edu,Nintendo,Cartridge
+5541,usr746@gt.edu,Nintendo,Cartridge
+5544,usr746@gt.edu,Xbox,Optical disc
+5545,usr746@gt.edu,Nintendo,Game card
+5550,usr747@gt.edu,PlayStation,Game card
+5551,usr748@gt.edu,Nintendo,Game card
+5552,usr748@gt.edu,Nintendo,Optical disc
+5562,usr749@gt.edu,Nintendo,Optical disc
+5563,usr749@gt.edu,Nintendo,Optical disc
+5566,usr749@gt.edu,Xbox,Optical disc
+5569,usr749@gt.edu,PlayStation,Cartridge
+5572,usr750@gt.edu,Xbox,Game card
+5575,usr750@gt.edu,Nintendo,Game card
+5580,usr751@gt.edu,Nintendo,Optical disc
+5588,usr752@gt.edu,Nintendo,Optical disc
+5589,usr752@gt.edu,Xbox,Optical disc
+5597,usr753@gt.edu,Xbox,Optical disc
+5600,usr753@gt.edu,Nintendo,Game card
+5601,usr753@gt.edu,Nintendo,Game card
+5615,usr755@gt.edu,PlayStation,Cartridge
+5622,usr756@gt.edu,Xbox,Game card
+5623,usr756@gt.edu,Xbox,Game card
+5628,usr756@gt.edu,Xbox,Cartridge
+5629,usr757@gt.edu,Nintendo,Cartridge
+5645,usr758@gt.edu,Nintendo,Game card
+5654,usr759@gt.edu,Xbox,Game card
+5659,usr760@gt.edu,Nintendo,Optical disc
+5662,usr761@gt.edu,Xbox,Cartridge
+5667,usr762@gt.edu,Xbox,Optical disc
+5676,usr762@gt.edu,PlayStation,Cartridge
+5678,usr763@gt.edu,PlayStation,Game card
+5679,usr763@gt.edu,Nintendo,Game card
+5685,usr765@gt.edu,Xbox,Game card
+5687,usr765@gt.edu,Xbox,Optical disc
+5689,usr765@gt.edu,Nintendo,Cartridge
+5690,usr765@gt.edu,Xbox,Optical disc
+5691,usr765@gt.edu,PlayStation,Optical disc
+5692,usr765@gt.edu,Xbox,Cartridge
+5698,usr766@gt.edu,Nintendo,Game card
+5701,usr766@gt.edu,Nintendo,Cartridge
+5702,usr766@gt.edu,Xbox,Optical disc
+5705,usr767@gt.edu,PlayStation,Optical disc
+5706,usr767@gt.edu,Nintendo,Optical disc
+5711,usr768@gt.edu,Xbox,Game card
+5716,usr769@gt.edu,PlayStation,Optical disc
+5718,usr769@gt.edu,Nintendo,Cartridge
+5722,usr769@gt.edu,PlayStation,Cartridge
+5725,usr770@gt.edu,Xbox,Game card
+5728,usr770@gt.edu,Xbox,Game card
+5730,usr771@gt.edu,Xbox,Cartridge
+5737,usr771@gt.edu,PlayStation,Optical disc
+5739,usr772@gt.edu,Nintendo,Game card
+5742,usr772@gt.edu,Xbox,Game card
+5744,usr772@gt.edu,PlayStation,Cartridge
+5745,usr772@gt.edu,Nintendo,Cartridge
+5747,usr772@gt.edu,Xbox,Optical disc
+5751,usr773@gt.edu,Nintendo,Game card
+5754,usr773@gt.edu,Xbox,Game card
+5755,usr774@gt.edu,Xbox,Optical disc
+5757,usr774@gt.edu,Xbox,Optical disc
+5758,usr774@gt.edu,Xbox,Optical disc
+5759,usr774@gt.edu,Nintendo,Game card
+5760,usr774@gt.edu,Xbox,Game card
+5763,usr775@gt.edu,PlayStation,Optical disc
+5764,usr775@gt.edu,Xbox,Game card
+5765,usr775@gt.edu,Xbox,Game card
+5766,usr776@gt.edu,Xbox,Optical disc
+5768,usr776@gt.edu,Xbox,Game card
+5769,usr776@gt.edu,Nintendo,Optical disc
+5772,usr776@gt.edu,Xbox,Optical disc
+5775,usr776@gt.edu,PlayStation,Optical disc
+5780,usr777@gt.edu,PlayStation,Cartridge
+5783,usr777@gt.edu,Nintendo,Cartridge
+5798,usr779@gt.edu,Nintendo,Optical disc
+5799,usr779@gt.edu,Xbox,Game card
+5801,usr779@gt.edu,Nintendo,Game card
+5804,usr779@gt.edu,Xbox,Cartridge
+5808,usr780@gt.edu,Nintendo,Game card
+5818,usr781@gt.edu,Xbox,Cartridge
+5819,usr781@gt.edu,Nintendo,Optical disc
+5821,usr781@gt.edu,Xbox,Cartridge
+5822,usr781@gt.edu,Nintendo,Game card
+5827,usr782@gt.edu,Nintendo,Game card
+5830,usr782@gt.edu,Xbox,Optical disc
+5834,usr783@gt.edu,Xbox,Optical disc
+5837,usr783@gt.edu,Nintendo,Game card
+5842,usr784@gt.edu,Xbox,Optical disc
+5845,usr785@gt.edu,Xbox,Cartridge
+5846,usr785@gt.edu,PlayStation,Game card
+5847,usr785@gt.edu,Xbox,Cartridge
+5854,usr786@gt.edu,Xbox,Cartridge
+5855,usr786@gt.edu,Xbox,Game card
+5856,usr786@gt.edu,Xbox,Cartridge
+5860,usr787@gt.edu,Xbox,Game card
+5865,usr788@gt.edu,Xbox,Cartridge
+5867,usr788@gt.edu,Xbox,Game card
+5869,usr789@gt.edu,Nintendo,Game card
+5870,usr789@gt.edu,PlayStation,Cartridge
+5872,usr789@gt.edu,Xbox,Game card
+5873,usr790@gt.edu,Xbox,Game card
+5875,usr790@gt.edu,PlayStation,Optical disc
+5877,usr790@gt.edu,PlayStation,Cartridge
+5878,usr790@gt.edu,Xbox,Optical disc
+5879,usr790@gt.edu,Nintendo,Optical disc
+5880,usr790@gt.edu,Nintendo,Game card
+5882,usr790@gt.edu,Xbox,Game card
+5886,usr791@gt.edu,Xbox,Cartridge
+5898,usr792@gt.edu,PlayStation,Optical disc
+5900,usr793@gt.edu,PlayStation,Optical disc
+5911,usr794@gt.edu,Nintendo,Optical disc
+5918,usr796@gt.edu,Xbox,Cartridge
+5924,usr796@gt.edu,Xbox,Game card
+5926,usr796@gt.edu,Nintendo,Game card
+5928,usr796@gt.edu,Xbox,Game card
+5929,usr796@gt.edu,Xbox,Optical disc
+5932,usr797@gt.edu,Nintendo,Optical disc
+5936,usr797@gt.edu,Nintendo,Optical disc
+5942,usr798@gt.edu,Nintendo,Cartridge
+5946,usr799@gt.edu,Nintendo,Game card
+5949,usr800@gt.edu,Nintendo,Game card
+5957,usr801@gt.edu,Xbox,Game card
+5960,usr802@gt.edu,Nintendo,Cartridge
+5961,usr802@gt.edu,Xbox,Cartridge
+5965,usr802@gt.edu,Nintendo,Optical disc
+5966,usr802@gt.edu,Xbox,Optical disc
+5969,usr802@gt.edu,Nintendo,Game card
+5972,usr803@gt.edu,PlayStation,Cartridge
+5973,usr803@gt.edu,Xbox,Cartridge
+5975,usr803@gt.edu,Nintendo,Game card
+5979,usr803@gt.edu,Xbox,Game card
+5985,usr804@gt.edu,Xbox,Cartridge
+5992,usr804@gt.edu,PlayStation,Cartridge
+5993,usr804@gt.edu,PlayStation,Cartridge
+5997,usr805@gt.edu,Nintendo,Game card
+6001,usr806@gt.edu,Nintendo,Game card
+6003,usr806@gt.edu,Nintendo,Game card
+6004,usr806@gt.edu,Xbox,Optical disc
+6006,usr806@gt.edu,Nintendo,Cartridge
+6007,usr806@gt.edu,Xbox,Cartridge
+6008,usr806@gt.edu,Nintendo,Optical disc
+6009,usr807@gt.edu,Nintendo,Game card
+6016,usr807@gt.edu,PlayStation,Optical disc
+6022,usr808@gt.edu,Nintendo,Cartridge
+6024,usr809@gt.edu,Xbox,Optical disc
+6025,usr809@gt.edu,Nintendo,Game card
+6027,usr809@gt.edu,PlayStation,Optical disc
+6028,usr810@gt.edu,PlayStation,Game card
+6033,usr811@gt.edu,Xbox,Optical disc
+6035,usr811@gt.edu,Nintendo,Game card
+6043,usr812@gt.edu,Xbox,Optical disc
+6048,usr812@gt.edu,PlayStation,Cartridge
+6052,usr813@gt.edu,Xbox,Cartridge
+6056,usr813@gt.edu,Xbox,Optical disc
+6058,usr813@gt.edu,Xbox,Cartridge
+6061,usr813@gt.edu,PlayStation,Optical disc
+6062,usr813@gt.edu,Nintendo,Cartridge
+6064,usr814@gt.edu,PlayStation,Game card
+6067,usr815@gt.edu,Xbox,Cartridge
+6076,usr816@gt.edu,Xbox,Optical disc
+6086,usr818@gt.edu,PlayStation,Cartridge
+6094,usr818@gt.edu,Xbox,Cartridge
+6095,usr818@gt.edu,PlayStation,Optical disc
+6096,usr819@gt.edu,PlayStation,Cartridge
+6097,usr819@gt.edu,PlayStation,Game card
+6106,usr820@gt.edu,Xbox,Optical disc
+6109,usr821@gt.edu,Nintendo,Game card
+6110,usr821@gt.edu,Xbox,Optical disc
+6112,usr822@gt.edu,Nintendo,Game card
+6119,usr822@gt.edu,PlayStation,Cartridge
+6124,usr823@gt.edu,Xbox,Cartridge
+6125,usr823@gt.edu,Xbox,Game card
+6130,usr824@gt.edu,Nintendo,Optical disc
+6135,usr824@gt.edu,PlayStation,Optical disc
+6143,usr826@gt.edu,Xbox,Optical disc
+6146,usr826@gt.edu,Xbox,Game card
+6148,usr826@gt.edu,PlayStation,Cartridge
+6151,usr826@gt.edu,Nintendo,Optical disc
+6152,usr827@gt.edu,Xbox,Game card
+6154,usr827@gt.edu,PlayStation,Cartridge
+6156,usr827@gt.edu,Xbox,Optical disc
+6160,usr827@gt.edu,Nintendo,Optical disc
+6182,usr830@gt.edu,Xbox,Game card
+6183,usr830@gt.edu,Nintendo,Game card
+6188,usr831@gt.edu,PlayStation,Optical disc
+6191,usr831@gt.edu,Nintendo,Game card
+6194,usr832@gt.edu,PlayStation,Cartridge
+6205,usr834@gt.edu,Nintendo,Cartridge
+6207,usr834@gt.edu,Xbox,Game card
+6209,usr835@gt.edu,Xbox,Optical disc
+6210,usr835@gt.edu,Nintendo,Game card
+6211,usr835@gt.edu,Xbox,Game card
+6213,usr835@gt.edu,Xbox,Game card
+6217,usr835@gt.edu,Xbox,Optical disc
+6222,usr836@gt.edu,Xbox,Game card
+6223,usr836@gt.edu,Xbox,Optical disc
+6225,usr836@gt.edu,Xbox,Cartridge
+6226,usr836@gt.edu,Xbox,Game card
+6228,usr836@gt.edu,PlayStation,Cartridge
+6230,usr836@gt.edu,PlayStation,Game card
+6236,usr837@gt.edu,PlayStation,Optical disc
+6243,usr838@gt.edu,Xbox,Cartridge
+6244,usr839@gt.edu,Nintendo,Optical disc
+6246,usr839@gt.edu,Nintendo,Optical disc
+6251,usr840@gt.edu,Nintendo,Cartridge
+6253,usr840@gt.edu,Nintendo,Game card
+6254,usr840@gt.edu,PlayStation,Optical disc
+6257,usr841@gt.edu,Xbox,Game card
+6259,usr841@gt.edu,Xbox,Cartridge
+6260,usr841@gt.edu,PlayStation,Optical disc
+6266,usr842@gt.edu,PlayStation,Optical disc
+6270,usr842@gt.edu,PlayStation,Optical disc
+6272,usr843@gt.edu,Xbox,Optical disc
+6275,usr843@gt.edu,Xbox,Optical disc
+6281,usr844@gt.edu,PlayStation,Optical disc
+6285,usr844@gt.edu,Nintendo,Optical disc
+6286,usr844@gt.edu,Xbox,Game card
+6287,usr845@gt.edu,Xbox,Cartridge
+6288,usr845@gt.edu,Nintendo,Optical disc
+6291,usr845@gt.edu,Xbox,Game card
+6292,usr845@gt.edu,PlayStation,Optical disc
+6293,usr845@gt.edu,PlayStation,Game card
+6294,usr846@gt.edu,Xbox,Optical disc
+6300,usr847@gt.edu,Xbox,Optical disc
+6308,usr849@gt.edu,Nintendo,Game card
+6312,usr850@gt.edu,Xbox,Game card
+6316,usr850@gt.edu,Xbox,Game card
+6320,usr850@gt.edu,Nintendo,Cartridge
+6325,usr851@gt.edu,PlayStation,Cartridge
+6331,usr852@gt.edu,Nintendo,Game card
+6332,usr852@gt.edu,PlayStation,Cartridge
+6335,usr852@gt.edu,Xbox,Cartridge
+6337,usr853@gt.edu,PlayStation,Optical disc
+6341,usr853@gt.edu,Xbox,Optical disc
+6345,usr853@gt.edu,Xbox,Game card
+6352,usr854@gt.edu,Xbox,Cartridge
+6359,usr855@gt.edu,Xbox,Cartridge
+6362,usr856@gt.edu,Nintendo,Cartridge
+6366,usr856@gt.edu,Nintendo,Optical disc
+6367,usr856@gt.edu,Xbox,Cartridge
+6369,usr857@gt.edu,Xbox,Cartridge
+6370,usr857@gt.edu,PlayStation,Optical disc
+6371,usr857@gt.edu,Xbox,Cartridge
+6374,usr858@gt.edu,PlayStation,Optical disc
+6380,usr858@gt.edu,Xbox,Optical disc
+6383,usr859@gt.edu,Nintendo,Optical disc
+6389,usr860@gt.edu,Xbox,Optical disc
+6401,usr862@gt.edu,Nintendo,Optical disc
+6410,usr864@gt.edu,Xbox,Game card
+6411,usr864@gt.edu,PlayStation,Cartridge
+6413,usr864@gt.edu,PlayStation,Optical disc
+6417,usr865@gt.edu,PlayStation,Optical disc
+6418,usr865@gt.edu,Xbox,Cartridge
+6423,usr866@gt.edu,Xbox,Optical disc
+6424,usr866@gt.edu,Xbox,Cartridge
+6425,usr866@gt.edu,PlayStation,Cartridge
+6426,usr866@gt.edu,Nintendo,Game card
+6434,usr867@gt.edu,Xbox,Cartridge
+6438,usr867@gt.edu,Nintendo,Optical disc
+6440,usr867@gt.edu,Nintendo,Game card
+6444,usr868@gt.edu,PlayStation,Cartridge
+6446,usr869@gt.edu,Nintendo,Game card
+6449,usr870@gt.edu,Xbox,Optical disc
+6458,usr871@gt.edu,Xbox,Optical disc
+6459,usr871@gt.edu,Nintendo,Game card
+6470,usr873@gt.edu,Xbox,Game card
+6471,usr873@gt.edu,Nintendo,Cartridge
+6472,usr873@gt.edu,Nintendo,Cartridge
+6474,usr873@gt.edu,Xbox,Optical disc
+6475,usr873@gt.edu,Nintendo,Cartridge
+6478,usr874@gt.edu,Xbox,Optical disc
+6484,usr874@gt.edu,Xbox,Cartridge
+6488,usr876@gt.edu,Nintendo,Optical disc
+6489,usr876@gt.edu,Xbox,Game card
+6491,usr876@gt.edu,Xbox,Cartridge
+6497,usr876@gt.edu,Xbox,Cartridge
+6500,usr877@gt.edu,Nintendo,Game card
+6504,usr877@gt.edu,Nintendo,Cartridge
+6506,usr877@gt.edu,PlayStation,Cartridge
+6507,usr877@gt.edu,PlayStation,Optical disc
+6513,usr878@gt.edu,PlayStation,Cartridge
+6514,usr878@gt.edu,PlayStation,Game card
+6515,usr879@gt.edu,Xbox,Optical disc
+6518,usr879@gt.edu,Xbox,Optical disc
+6519,usr879@gt.edu,Nintendo,Optical disc
+6521,usr879@gt.edu,Nintendo,Optical disc
+6529,usr880@gt.edu,Nintendo,Game card
+6533,usr881@gt.edu,Nintendo,Optical disc
+6541,usr882@gt.edu,Xbox,Cartridge
+6544,usr882@gt.edu,Nintendo,Cartridge
+6545,usr882@gt.edu,Xbox,Game card
+6550,usr882@gt.edu,Xbox,Optical disc
+6556,usr883@gt.edu,Xbox,Game card
+6558,usr884@gt.edu,PlayStation,Game card
+6560,usr884@gt.edu,Nintendo,Cartridge
+6561,usr884@gt.edu,PlayStation,Cartridge
+6563,usr884@gt.edu,Xbox,Optical disc
+6564,usr884@gt.edu,Xbox,Cartridge
+6565,usr885@gt.edu,Xbox,Game card
+6568,usr885@gt.edu,Xbox,Game card
+6570,usr886@gt.edu,Xbox,Optical disc
+6572,usr886@gt.edu,Nintendo,Optical disc
+6578,usr887@gt.edu,Nintendo,Game card
+6579,usr887@gt.edu,PlayStation,Optical disc
+6583,usr887@gt.edu,Xbox,Cartridge
+6585,usr887@gt.edu,Xbox,Game card
+6587,usr887@gt.edu,Xbox,Game card
+6592,usr889@gt.edu,PlayStation,Optical disc
+6595,usr889@gt.edu,PlayStation,Cartridge
+6597,usr889@gt.edu,PlayStation,Cartridge
+6603,usr890@gt.edu,Xbox,Cartridge
+6604,usr890@gt.edu,Nintendo,Cartridge
+6607,usr890@gt.edu,Xbox,Optical disc
+6608,usr890@gt.edu,Nintendo,Game card
+6616,usr892@gt.edu,PlayStation,Cartridge
+6618,usr892@gt.edu,PlayStation,Cartridge
+6620,usr893@gt.edu,PlayStation,Optical disc
+6622,usr893@gt.edu,Nintendo,Cartridge
+6626,usr894@gt.edu,Xbox,Game card
+6627,usr894@gt.edu,Nintendo,Game card
+6633,usr895@gt.edu,Xbox,Optical disc
+6635,usr895@gt.edu,Xbox,Cartridge
+6636,usr895@gt.edu,PlayStation,Cartridge
+6637,usr895@gt.edu,PlayStation,Optical disc
+6642,usr895@gt.edu,Xbox,Cartridge
+6644,usr896@gt.edu,Nintendo,Optical disc
+6648,usr897@gt.edu,Nintendo,Optical disc
+6650,usr897@gt.edu,Nintendo,Game card
+6652,usr898@gt.edu,Xbox,Game card
+6657,usr898@gt.edu,Nintendo,Cartridge
+6658,usr898@gt.edu,Xbox,Optical disc
+6664,usr899@gt.edu,Nintendo,Optical disc
+6665,usr899@gt.edu,Nintendo,Optical disc
+6667,usr899@gt.edu,Xbox,Optical disc
+6669,usr899@gt.edu,Xbox,Cartridge
+6671,usr899@gt.edu,Nintendo,Cartridge
+6676,usr900@gt.edu,Xbox,Game card
+6677,usr900@gt.edu,Xbox,Cartridge
+6680,usr900@gt.edu,Nintendo,Optical disc
+6682,usr900@gt.edu,Xbox,Cartridge
+6685,usr901@gt.edu,Nintendo,Optical disc
+6686,usr901@gt.edu,PlayStation,Game card
+6687,usr901@gt.edu,Nintendo,Game card
+6688,usr901@gt.edu,Xbox,Cartridge
+6691,usr902@gt.edu,PlayStation,Cartridge
+6692,usr902@gt.edu,Nintendo,Cartridge
+6697,usr902@gt.edu,Nintendo,Cartridge
+6698,usr902@gt.edu,Xbox,Cartridge
+6702,usr903@gt.edu,PlayStation,Optical disc
+6703,usr903@gt.edu,Xbox,Cartridge
+6705,usr903@gt.edu,Nintendo,Optical disc
+6710,usr904@gt.edu,PlayStation,Optical disc
+6718,usr905@gt.edu,Xbox,Game card
+6722,usr905@gt.edu,Xbox,Game card
+6725,usr906@gt.edu,PlayStation,Game card
+6732,usr907@gt.edu,Nintendo,Cartridge
+6738,usr908@gt.edu,Nintendo,Optical disc
+6739,usr908@gt.edu,Nintendo,Optical disc
+6741,usr908@gt.edu,Nintendo,Game card
+6746,usr910@gt.edu,PlayStation,Optical disc
+6747,usr910@gt.edu,Nintendo,Cartridge
+6749,usr910@gt.edu,Xbox,Game card
+6753,usr910@gt.edu,PlayStation,Optical disc
+6754,usr910@gt.edu,Xbox,Game card
+6758,usr911@gt.edu,Xbox,Game card
+6759,usr911@gt.edu,Nintendo,Optical disc
+6760,usr911@gt.edu,Nintendo,Game card
+6763,usr912@gt.edu,Nintendo,Game card
+6765,usr913@gt.edu,Nintendo,Game card
+6774,usr915@gt.edu,Nintendo,Optical disc
+6775,usr915@gt.edu,Nintendo,Game card
+6777,usr915@gt.edu,Xbox,Cartridge
+6785,usr916@gt.edu,Nintendo,Cartridge
+6786,usr916@gt.edu,Xbox,Cartridge
+6787,usr916@gt.edu,Nintendo,Game card
+6788,usr917@gt.edu,Xbox,Cartridge
+6789,usr917@gt.edu,Xbox,Optical disc
+6791,usr917@gt.edu,PlayStation,Optical disc
+6796,usr918@gt.edu,PlayStation,Cartridge
+6805,usr920@gt.edu,PlayStation,Cartridge
+6807,usr920@gt.edu,Nintendo,Cartridge
+6808,usr920@gt.edu,Nintendo,Optical disc
+6809,usr920@gt.edu,Nintendo,Game card
+6819,usr921@gt.edu,Xbox,Optical disc
+6821,usr922@gt.edu,Nintendo,Game card
+6826,usr923@gt.edu,Nintendo,Game card
+6831,usr924@gt.edu,PlayStation,Optical disc
+6834,usr924@gt.edu,Xbox,Game card
+6839,usr924@gt.edu,PlayStation,Game card
+6842,usr925@gt.edu,Nintendo,Cartridge
+6843,usr925@gt.edu,Nintendo,Optical disc
+6846,usr925@gt.edu,Nintendo,Game card
+6847,usr925@gt.edu,Xbox,Cartridge
+6856,usr926@gt.edu,Xbox,Game card
+6857,usr926@gt.edu,PlayStation,Cartridge
+6858,usr927@gt.edu,Nintendo,Optical disc
+6861,usr927@gt.edu,Xbox,Cartridge
+6867,usr927@gt.edu,Xbox,Optical disc
+6875,usr928@gt.edu,PlayStation,Game card
+6877,usr928@gt.edu,Xbox,Cartridge
+6879,usr929@gt.edu,Xbox,Cartridge
+6881,usr929@gt.edu,Xbox,Optical disc
+6884,usr929@gt.edu,Nintendo,Optical disc
+6885,usr929@gt.edu,Nintendo,Optical disc
+6886,usr929@gt.edu,Nintendo,Optical disc
+6887,usr929@gt.edu,Xbox,Optical disc
+6890,usr930@gt.edu,PlayStation,Optical disc
+6893,usr930@gt.edu,PlayStation,Game card
+6897,usr930@gt.edu,Xbox,Optical disc
+6900,usr931@gt.edu,Nintendo,Optical disc
+6901,usr931@gt.edu,Nintendo,Cartridge
+6906,usr932@gt.edu,PlayStation,Game card
+6908,usr932@gt.edu,Nintendo,Game card
+6909,usr932@gt.edu,Xbox,Optical disc
+6913,usr933@gt.edu,Nintendo,Game card
+6916,usr933@gt.edu,Nintendo,Optical disc
+6922,usr934@gt.edu,PlayStation,Game card
+6923,usr934@gt.edu,PlayStation,Cartridge
+6925,usr934@gt.edu,Nintendo,Optical disc
+6926,usr935@gt.edu,Nintendo,Cartridge
+6929,usr935@gt.edu,Xbox,Optical disc
+6932,usr935@gt.edu,Nintendo,Game card
+6935,usr936@gt.edu,Xbox,Cartridge
+6939,usr936@gt.edu,Nintendo,Game card
+6943,usr937@gt.edu,PlayStation,Cartridge
+6945,usr937@gt.edu,Nintendo,Optical disc
+6950,usr938@gt.edu,Nintendo,Game card
+6962,usr939@gt.edu,Xbox,Optical disc
+6968,usr940@gt.edu,Xbox,Cartridge
+6971,usr940@gt.edu,Nintendo,Optical disc
+6973,usr941@gt.edu,Nintendo,Game card
+6974,usr941@gt.edu,PlayStation,Game card
+6977,usr941@gt.edu,PlayStation,Optical disc
+6982,usr941@gt.edu,PlayStation,Cartridge
+6987,usr942@gt.edu,Nintendo,Game card
+6990,usr943@gt.edu,PlayStation,Cartridge
+6994,usr944@gt.edu,Xbox,Game card
+6995,usr944@gt.edu,Nintendo,Game card
+7000,usr944@gt.edu,Nintendo,Game card
+7001,usr945@gt.edu,PlayStation,Optical disc
+7005,usr945@gt.edu,Nintendo,Cartridge
+7009,usr945@gt.edu,Xbox,Optical disc
+7011,usr946@gt.edu,Nintendo,Optical disc
+7012,usr946@gt.edu,Nintendo,Game card
+7014,usr946@gt.edu,Nintendo,Optical disc
+7015,usr946@gt.edu,PlayStation,Cartridge
+7018,usr946@gt.edu,Xbox,Game card
+7022,usr947@gt.edu,Nintendo,Optical disc
+7023,usr947@gt.edu,Xbox,Optical disc
+7025,usr947@gt.edu,Nintendo,Optical disc
+7026,usr947@gt.edu,Nintendo,Cartridge
+7030,usr947@gt.edu,Nintendo,Cartridge
+7031,usr947@gt.edu,Nintendo,Game card
+7033,usr948@gt.edu,Nintendo,Cartridge
+7037,usr948@gt.edu,Xbox,Game card
+7040,usr948@gt.edu,Xbox,Cartridge
+7042,usr948@gt.edu,PlayStation,Optical disc
+7044,usr949@gt.edu,Nintendo,Game card
+7045,usr949@gt.edu,PlayStation,Cartridge
+7046,usr949@gt.edu,PlayStation,Game card
+7050,usr949@gt.edu,Nintendo,Game card
+7052,usr949@gt.edu,Xbox,Cartridge
+7054,usr950@gt.edu,PlayStation,Cartridge
+7057,usr950@gt.edu,Nintendo,Optical disc
+7059,usr951@gt.edu,Nintendo,Optical disc
+7064,usr951@gt.edu,Xbox,Optical disc
+7066,usr951@gt.edu,Nintendo,Optical disc
+7067,usr952@gt.edu,Xbox,Cartridge
+7070,usr952@gt.edu,PlayStation,Game card
+7074,usr952@gt.edu,Xbox,Game card
+7085,usr954@gt.edu,Xbox,Cartridge
+7089,usr954@gt.edu,Nintendo,Optical disc
+7090,usr955@gt.edu,Xbox,Game card
+7091,usr955@gt.edu,Xbox,Game card
+7092,usr955@gt.edu,Nintendo,Optical disc
+7097,usr956@gt.edu,PlayStation,Cartridge
+7098,usr956@gt.edu,Xbox,Optical disc
+7100,usr957@gt.edu,PlayStation,Game card
+7101,usr957@gt.edu,Nintendo,Game card
+7102,usr957@gt.edu,Nintendo,Optical disc
+7103,usr958@gt.edu,Nintendo,Cartridge
+7108,usr958@gt.edu,PlayStation,Optical disc
+7110,usr958@gt.edu,PlayStation,Optical disc
+7112,usr959@gt.edu,Nintendo,Cartridge
+7116,usr960@gt.edu,Xbox,Cartridge
+7120,usr960@gt.edu,Nintendo,Cartridge
+7128,usr961@gt.edu,Xbox,Cartridge
+7131,usr961@gt.edu,Xbox,Cartridge
+7132,usr961@gt.edu,Xbox,Cartridge
+7137,usr962@gt.edu,Xbox,Optical disc
+7140,usr962@gt.edu,PlayStation,Cartridge
+7143,usr962@gt.edu,PlayStation,Cartridge
+7146,usr962@gt.edu,Xbox,Game card
+7154,usr964@gt.edu,Xbox,Optical disc
+7157,usr964@gt.edu,Nintendo,Game card
+7162,usr965@gt.edu,Nintendo,Game card
+7175,usr967@gt.edu,PlayStation,Game card
+7176,usr967@gt.edu,Nintendo,Game card
+7180,usr968@gt.edu,Xbox,Optical disc
+7182,usr968@gt.edu,Xbox,Cartridge
+7189,usr969@gt.edu,Xbox,Cartridge
+7194,usr971@gt.edu,PlayStation,Cartridge
+7199,usr971@gt.edu,Xbox,Cartridge
+7205,usr972@gt.edu,Xbox,Game card
+7206,usr972@gt.edu,Xbox,Cartridge
+7208,usr972@gt.edu,Xbox,Optical disc
+7209,usr972@gt.edu,PlayStation,Game card
+7217,usr973@gt.edu,Nintendo,Optical disc
+7218,usr974@gt.edu,Nintendo,Game card
+7220,usr974@gt.edu,Xbox,Game card
+7226,usr974@gt.edu,PlayStation,Game card
+7227,usr974@gt.edu,Nintendo,Cartridge
+7233,usr976@gt.edu,Xbox,Optical disc
+7240,usr977@gt.edu,Nintendo,Optical disc
+7244,usr977@gt.edu,Xbox,Optical disc
+7245,usr977@gt.edu,Nintendo,Optical disc
+7248,usr978@gt.edu,PlayStation,Optical disc
+7250,usr978@gt.edu,PlayStation,Cartridge
+7253,usr979@gt.edu,Xbox,Game card
+7254,usr979@gt.edu,PlayStation,Game card
+7255,usr979@gt.edu,PlayStation,Game card
+7256,usr979@gt.edu,Nintendo,Optical disc
+7261,usr980@gt.edu,Nintendo,Optical disc
+7264,usr980@gt.edu,Nintendo,Game card
+7270,usr980@gt.edu,Nintendo,Cartridge
+7275,usr981@gt.edu,Xbox,Optical disc
+7276,usr981@gt.edu,Nintendo,Game card
+7279,usr981@gt.edu,Nintendo,Game card
+7284,usr981@gt.edu,Nintendo,Game card
+7286,usr982@gt.edu,PlayStation,Optical disc
+7293,usr983@gt.edu,Nintendo,Game card
+7295,usr983@gt.edu,Nintendo,Optical disc
+7297,usr984@gt.edu,Xbox,Optical disc
+7305,usr985@gt.edu,Xbox,Game card
+7307,usr985@gt.edu,PlayStation,Optical disc
+7310,usr986@gt.edu,PlayStation,Cartridge
+7311,usr986@gt.edu,PlayStation,Optical disc
+7312,usr986@gt.edu,Nintendo,Cartridge
+7315,usr986@gt.edu,Xbox,Cartridge
+7318,usr986@gt.edu,Xbox,Optical disc
+7320,usr987@gt.edu,Xbox,Optical disc
+7321,usr987@gt.edu,Nintendo,Game card
+7322,usr987@gt.edu,Nintendo,Game card
+7329,usr987@gt.edu,Nintendo,Cartridge
+7332,usr988@gt.edu,Xbox,Game card
+7333,usr988@gt.edu,PlayStation,Optical disc
+7335,usr989@gt.edu,Nintendo,Optical disc
+7342,usr989@gt.edu,Nintendo,Optical disc
+7345,usr990@gt.edu,Nintendo,Cartridge
+7349,usr991@gt.edu,Nintendo,Game card
+7350,usr991@gt.edu,Nintendo,Cartridge
+7352,usr991@gt.edu,Xbox,Optical disc
+7354,usr991@gt.edu,Xbox,Optical disc
+7357,usr991@gt.edu,Xbox,Optical disc
+7358,usr992@gt.edu,PlayStation,Cartridge
+7362,usr992@gt.edu,PlayStation,Optical disc
+7363,usr992@gt.edu,Xbox,Optical disc
+7366,usr993@gt.edu,Nintendo,Game card
+7370,usr994@gt.edu,Nintendo,Game card
+7372,usr994@gt.edu,Nintendo,Optical disc
+7375,usr994@gt.edu,Nintendo,Cartridge
+7378,usr994@gt.edu,Xbox,Optical disc
+7379,usr994@gt.edu,Xbox,Game card
+7385,usr995@gt.edu,Xbox,Cartridge
+7387,usr995@gt.edu,PlayStation,Optical disc
+7390,usr996@gt.edu,Nintendo,Cartridge
+7391,usr996@gt.edu,Xbox,Cartridge
+7392,usr996@gt.edu,PlayStation,Optical disc
+7394,usr996@gt.edu,Nintendo,Cartridge
+7397,usr996@gt.edu,Nintendo,Game card
+7400,usr997@gt.edu,PlayStation,Optical disc
+7403,usr998@gt.edu,Xbox,Optical disc
+7405,usr998@gt.edu,PlayStation,Game card
+7407,usr998@gt.edu,Nintendo,Cartridge
+7411,usr999@gt.edu,Nintendo,Game card
+7412,usr999@gt.edu,Xbox,Cartridge

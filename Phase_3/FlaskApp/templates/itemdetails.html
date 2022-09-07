@@ -1,0 +1,176 @@
+<h1>Item Details</h1>
+<hr style="width:40vw;height:2px;border-width:0;color:gray;background-color:#BBEDF0;position:absolute;left:.6vw;top:7vh;">
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.returntomain {
+    padding: 15px 30px;
+    background-color: #4CAF50;
+    border-radius: 10px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    white-space: nowrap;
+    font-size: 16px;
+    position:absolute;
+    right:10px;
+    top:85px;
+    }
+    .propose_trade_button {
+        padding: 12px 25px;
+        background-color: #4CAF50;
+        border-radius: 10px;
+        outline: none;
+        text-align: center;
+        text-decoration: none;
+        font-weight: bold;
+        color: white;
+    }
+</style>
+</head>
+<body>
+
+<a href="/mainmenu" class="returntomain">Return To Main Menu</a>
+<div class="row">
+  <div class="column">
+    <!-- ========================== Part 1: List the item details ========================== -->
+    <p>
+        <li><b>Item</b> #     : {{ item_no }}</li>
+        <li><b>Title</b>      : {{ title }}</li>
+
+        <!-- show GAMETYPE + MEDIA/PLATFORM only when showing video games -->
+        {% if is_video_game == true %}
+        <li><b>Platform</b>   : {{ video_game_platform }}</li>
+        <li><b>Media</b>      : {{ media }}</li>
+        <li><b>Game Type</b>  : Video Game</li>
+        {% endif %}
+        <!-- show GAMETYPE + NUMBER_OF_CARDS only when showing collectible card games -->
+        {% if is_collectible_card_game == true %}
+        <li><b>Number of Cards</b>   : {{ number_of_cards }}</li>
+        <li><b>Game Type</b>  : Collectible Card Game</li>
+        {% endif %}
+        <!-- show GAMETYPE only when showing playing card games -->
+        {% if is_playing_card_game == true %}
+        <li><b>Game Type</b>  : Playing Card Game</li>
+        {% endif %}
+        <!-- show GAMETYPE only when showing playing card games -->
+        {% if is_board_game == true %}
+        <li><b>Game Type</b>  : Board Game</li>
+        {% endif %}
+        {% if is_computer_game == true %}
+        <li><b>Platform</b>   : {{ computer_platform }}</li>
+        <li><b>Game Type</b>  : Computer Game</li>
+        {% endif %}
+
+        <li><b>Condition</b>  : {{ condition }}</li>
+
+        {% if description != "" %}
+        <li><b>Description</b>  : {{ description }}</li>
+        {% endif %}
+
+
+    </p>
+  </div>
+
+  <!-- ============ Part 2: List owner details (only if you are viewing other's item) ========= -->
+  <div class="column">
+    <p>
+        {% if is_my_own_item == false %}
+        <li><b>Offered by</b>: {{ item_owner_nick_name }} </li>
+        <li><b>Location</b>: {{ item_owner_city }}, {{ item_owner_state }} {{ item_onwer_postal_code }} </li>
+
+        <!-- Show the text color based on the response time -->
+        {% if text_color == "black" %}
+        <li><b>Response Time</b>: <span style="color:rgb(8, 0, 0);">{{ avg_response }} days </span></li>
+        {% endif %}
+
+        {% if text_color == "green" %}
+        <li><b>Response Time</b>: <span style="color:rgb(17, 255, 0);">{{ avg_response }} days</span></li>
+        {% endif %}
+
+        {% if text_color == "yellow" %}
+        <li><b>Response Time</b>: <span style="color:rgb(255, 251, 0);">{{ avg_response }} days</span></li>
+        {% endif %}
+
+        {% if text_color == "orange" %}
+        <li><b>Response Time</b>: <span style="color:rgb(255, 94, 0);">{{ avg_response }} days</span></li>
+        {% endif %}
+
+        {% if text_color == "red" %}
+        <li><b>Response Time</b>: <span style="color:rgb(255, 0, 0);">{{ avg_response }} days</span></li>
+        {% endif %}
+
+        {% if text_color == "bolded_red" %}
+        <li><b>Response Time</b>: <b><span style="color:red;font-weight: bold">{{ avg_response }} days</span></b></li>
+        {% endif %}
+
+
+
+
+        <li><b>Rank</b>: {{ user_rank }}</li>
+        
+        <!-- Only show distance when it's not zero -->
+        {% if distance != 0 %}
+        <li>
+                <!-- Show different background color based on distance -->
+                {% if background_color == "green" %}
+                <mark style="background-color: rgb(47, 255, 0);"><b>Distance</b>: {{ distance }} miles</mark></br>
+                {% elif background_color == "yellow" %}
+                <mark style="background-color: rgb(255, 230, 0);"><b>Distance</b>: {{ distance }} miles</mark></br>
+                {% elif background_color == "orange" %}
+                <mark style="background-color: rgb(157, 121, 6);"><b>Distance</b>: {{ distance }} miles</mark></br>
+                {% elif background_color == "red" %}
+                <mark style="background-color: rgb(243, 27, 8);"><b>Distance</b>: {{ distance }} miles</mark></br>
+                {% else %}
+                <mark style="background-color: rgb(8, 59, 243);"><b>Distance</b>: {{ distance }} miles</mark></br>
+                {% endif %}
+        </li>
+        {% endif %}
+        </br>
+
+
+        {% if is_able_to_propose_trade == true %}
+            <!-- <button type="submit" class="btn btn-default">Propose Trade</button></br></br> -->
+            <a href="/proposetrade/{{ propose_trade_query }}" class="propose_trade_button" tabindex="-1" role="button" aria-disabled="true">Propose Trade</a><br><br><br>
+        {% endif %}
+        
+        {% endif %}
+
+        
+    </p>
+  </div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+

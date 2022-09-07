@@ -1,0 +1,76 @@
+<h1>Trade History</h1>
+<html>
+
+<style>
+table, th, td {
+          border:1px solid black;
+          text-align: center;
+        }
+    .returntomain {
+    padding: 15px 30px;
+    background-color: #4CAF50;
+    border-radius: 10px;
+    outline: none;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    white-space: nowrap;
+    font-size: 16px;
+    position:absolute;
+    right:10px;
+    top:85px;
+    }
+</style>
+
+  <body>
+  <a href="/mainmenu" class="returntomain">Return To Main Menu</a>
+    <div>
+      {{ summary_table | safe }}
+    </div>
+  </body>
+</html>
+
+
+
+
+<html>
+  <body>
+    <div>
+      <br><br><br><br>
+      <table>
+        <tr>
+          <th>Proposed Date</th>
+          <th>Accept/Reject Date</th>
+          <th>Trade Status</th>
+          <th>Response Time (Days)</th>
+          <th>My Role</th>
+          <th>Proposed Item</th>
+          <th>Desired Item</th>
+          <th>Other User</th>
+          <th></th>
+        </tr>
+
+        {% for row in details_data %}
+        {% set outer = loop.index %}
+        <tr>
+          {% for cell in row %}
+          <td>{{ cell }}</td>
+          {% endfor %}
+
+          {% for cell in row %}
+          {% if loop.index == 1 %}
+          <td class="item_no">
+            <a href="/tradedetails/{{ trade_details_query[outer-1][0] }}" class="item_no" role="button"
+               aria-disabled="true">Detail</a>
+          </td>
+          {%endif%}
+          {% endfor %}
+        </tr>
+        {% endfor %}
+
+      </table>
+    </div>
+  </body>
+<br><br>
+</html>

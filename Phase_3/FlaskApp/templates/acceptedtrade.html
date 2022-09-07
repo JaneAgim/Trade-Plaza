@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Search Results</title>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/
+jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+
+        $("td:contains('{{ keyword }}')").css("background-color","LightBlue");
+
+        })
+    </script>
+
+
+</head>
+
+
+<body>
+
+
+    <h1 style="text-align: center;">Trade Accepted!</h1>
+    {% for item in search_results_list %}
+    {% if loop.index == 1 %}
+    <h2 style="text-align: center;">Contact the proposer to trade items!</h2>
+    <h2 style="text-align: center;">Email: {{item[9]}}</h2>
+    <h2 style="text-align: center;">Name: {{item[8]}}</h2><br><br><br>
+    {%endif%}
+    {% endfor %}
+    <form method="get" action="/mainmenu">
+        <td><button id="accept_button" name="accept_button" class = "button" type="submit">OK</button></td>
+    </form>
+</body>
+</html>
